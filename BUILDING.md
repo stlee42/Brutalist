@@ -12,18 +12,21 @@ To build these fonts, you will need:
   sudo add-apt-repository ppa:fontforge/fontforge
   sudo apt-get update
   sudo apt-get install fontforge
+  sudo apt-get install ttfautohint
   ~~~
 
   macOS users can install using [Homebrew][2]:
 
   ~~~shell
   brew install fontforge
+  brew install ttfautohint
   ~~~
 
   Fedora users should run the following command as root:
 
   ~~~shell
   yum install fontforge
+  yum install ttfautohint
   ~~~
 
   See FontForge's [installation docs][3] for more info.

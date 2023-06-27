@@ -1,7 +1,7 @@
 .PHONY: all check munge full lgc ttf full-ttf lgc-ttf status dist src-dist full-dist lgc-dist norm check-harder pre-patch clean
 
 # Release version
-VERSION = 2.2
+VERSION = 3.000
 # Snapshot version
 SNAPSHOT =
 # Initial source directory, assumed read-only
@@ -96,7 +96,7 @@ $(BUILDDIR)/%.ttf: $(TMPDIR)/%.sfd
 	@echo "[3] $< => $@"
 	install -d $(dir $@)
 	$(GENERATE) $<
-	mv $<.ttf $@
+	ttfautohint $<.ttf $@
 	$(TTPOSTPROC) $@
 	$(RM) $@~
 	touch -r $< $@
@@ -237,29 +237,3 @@ pre-patch : munge clean
 
 clean :
 	$(RM) -r $(TMPDIR) $(BUILDDIR) $(DISTDIR)
-
-condensed: $(NORMSFD)
-	$(NARROW) 90 $(TMPDIR)/Brutalist.sfd.norm
-	$(NARROW) 90 $(TMPDIR)/Brutalist-Bold.sfd.norm
-	$(NARROW) 90 $(TMPDIR)/Brutalist-Oblique.sfd.norm
-	$(NARROW) 90 $(TMPDIR)/Brutalist-BoldOblique.sfd.norm
-	$(NARROW) 90 $(TMPDIR)/BrutalistSerif.sfd.norm
-	$(NARROW) 90 $(TMPDIR)/BrutalistSerif-Bold.sfd.norm
-	$(NARROW) 90 $(TMPDIR)/BrutalistSerif-Italic.sfd.norm
-	$(NARROW) 90 $(TMPDIR)/BrutalistSerif-BoldItalic.sfd.norm
-	$(NORMALIZE) $(TMPDIR)/Brutalist.sfd.norm.narrow
-	$(NORMALIZE) $(TMPDIR)/Brutalist-Bold.sfd.norm.narrow
-	$(NORMALIZE) $(TMPDIR)/Brutalist-Oblique.sfd.norm.narrow
-	$(NORMALIZE) $(TMPDIR)/Brutalist-BoldOblique.sfd.norm.narrow
-	$(NORMALIZE) $(TMPDIR)/BrutalistSerif.sfd.norm.narrow
-	$(NORMALIZE) $(TMPDIR)/BrutalistSerif-Bold.sfd.norm.narrow
-	$(NORMALIZE) $(TMPDIR)/BrutalistSerif-Italic.sfd.norm.narrow
-	$(NORMALIZE) $(TMPDIR)/BrutalistSerif-BoldItalic.sfd.norm.narrow
-	cp $(TMPDIR)/Brutalist.sfd.norm.narrow.norm $(TMPDIR)/BrutalistCondensed.sfd.norm
-	cp $(TMPDIR)/Brutalist-Bold.sfd.norm.narrow.norm $(TMPDIR)/BrutalistCondensed-Bold.sfd.norm
-	cp $(TMPDIR)/Brutalist-Oblique.sfd.norm.narrow.norm $(TMPDIR)/BrutalistCondensed-Oblique.sfd.norm
-	cp $(TMPDIR)/Brutalist-BoldOblique.sfd.norm.narrow.norm $(TMPDIR)/BrutalistCondensed-BoldOblique.sfd.norm
-	cp $(TMPDIR)/BrutalistSerif.sfd.norm.narrow.norm $(TMPDIR)/BrutalistSerifCondensed.sfd.norm
-	cp $(TMPDIR)/BrutalistSerif-Bold.sfd.norm.narrow.norm $(TMPDIR)/BrutalistSerifCondensed-Bold.sfd.norm
-	cp $(TMPDIR)/BrutalistSerif-Italic.sfd.norm.narrow.norm $(TMPDIR)/BrutalistSerifCondensed-Italic.sfd.norm
-	cp $(TMPDIR)/BrutalistSerif-BoldItalic.sfd.norm.narrow.norm $(TMPDIR)/BrutalistSerifCondensed-BoldItalic.sfd.norm
