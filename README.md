@@ -8,6 +8,14 @@ Brutalist Mono is a fork of [DejaVu Sans Mono v2.37](https://github.com/dejavu-f
 
 Download TrueType fonts (`BrutalistMono.3.001.zip`) from the [releases](https://github.com/stlee42/BrutalistMono/releases) page.
 
+## Specimen
+
+[See what the font looks like.](specimen.md)
+
+## License
+
+Same as DejaVu fonts, see [LICENSE](LICENSE).
+
 ## Building
 
 Short version:
@@ -17,12 +25,3 @@ Short version:
 * observe the `build` folder
 
 See: [long version](BUILDING.md).
-
-## License
-
-Same as DejaVu fonts, see [LICENSE](LICENSE).
-
-## Specimen
-
-[See what the font looks like.](specimen.md)
-
