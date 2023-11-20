@@ -83,7 +83,7 @@ v1.0:
 
 Short version:
 
-* Edit the .sdf files with FontForge (if you want to mod)
+* Edit the `.sfd` files with FontForge (if you want to mod)
 * `make`
 * observe the `build` folder
 
