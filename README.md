@@ -16,6 +16,10 @@ Download TrueType fonts (`BrutalistMono.3.001.zip`) from the [releases](https://
 
 Same as DejaVu fonts, see [LICENSE](LICENSE).
 
+## Change Log
+
+See [CHANGELOG.md](CHANGELOG.md).
+
 ## Building
 
 Short version:
