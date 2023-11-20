@@ -1,5 +1,9 @@
 ## Changes from DejaVu Sans Mono
 
+v3.001:
+
+* Change names of the styles from "Book, Oblique, Bold, Bold Oblique" to "Regular, Italic, Bold, Bold Italic".
+
 v3.000:
 
 * Use [ttfautohint](https://freetype.org/ttfautohint/) for hinting information.
