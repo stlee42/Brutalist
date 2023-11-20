@@ -4,11 +4,9 @@ This has been forked from [Brutalist Mono](https://github.com/BRUTALISM/Brutalis
 
 Brutalist Mono is a fork of [DejaVu Sans Mono v2.37](https://github.com/dejavu-fonts/dejavu-fonts) which itself is a fork of [Bitstream Vera Sans Mono v1.10](https://web.archive.org/web/20210314185159/https://www.gnome.org/fonts/).
 
-![brutalist](images/brutalist.jpg)
+## Download
 
-Comparison to DejaVu Sans Mono:
-
-![brutalist](images/brutalist_vs_dejavu.gif)
+Download TrueType fonts (`BrutalistMono.3.000.zip`) from the [release](https://github.com/stlee42/BrutalistMono/releases) page.
 
 ## Changes from DejaVu Sans Mono
 
@@ -92,3 +90,11 @@ See: [long version](BUILDING.md).
 ## License
 
 Same as DejaVu fonts, see [LICENSE](LICENSE).
+
+## Specimen
+
+![brutalist](images/brutalist.jpg)
+
+Comparison to DejaVu Sans Mono:
+
+![brutalist](images/brutalist_vs_dejavu.gif)
