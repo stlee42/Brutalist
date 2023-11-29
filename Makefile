@@ -157,7 +157,7 @@ munge: $(NORMSFD)
 
 full : $(FULLTTF) $(addprefix $(BUILDDIR)/, $(GENDOCFULL))
 
-ttf : full-ttf -ttf
+ttf : full-ttf
 
 full-ttf : $(FULLTTF)
 
