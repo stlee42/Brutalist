@@ -22,10 +22,25 @@ See [CHANGELOG.md](CHANGELOG.md).
 
 ## Building
 
-Short version:
+Create a `resources` directory
 
-* Edit the `.sfd` files with FontForge (if you want to mod)
-* `make`
-* observe the `build` folder
+```
+mkdir resources
+```
 
-See: [long version](BUILDING.md).
+and in that directory, download some files into it.
+
+```
+cd resources
+wget http://www.unicode.org/Public/UNIDATA/Blocks.txt
+wget http://www.unicode.org/Public/UNIDATA/UnicodeData.txt
+wget https://gitlab.freedesktop.org/fontconfig/fontconfig/-/archive/main/fontconfig-main.zip?path=fc-lang
+unzip fontconfig-main.zip\?path\=fc-lang
+mv fontconfig-main-fc-lang/fc-lang .
+rmdir fontconfig-main-fc-lang
+cd ..
+```
+
+Now run `make` to generate the `.ttf` files in `build` directory. Run `make dist` to generate the `.zip` and `.tar.bz2` files in `dist` directory that are suitable for distribution.
+
+See: [prerequisites](BUILDING.md).

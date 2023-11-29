@@ -1,4 +1,4 @@
-.PHONY: all check munge full lgc ttf full-ttf lgc-ttf status dist src-dist full-dist lgc-dist norm check-harder pre-patch clean
+.PHONY: all check munge full ttf full-ttf status dist src-dist full-dist norm check-harder pre-patch clean
 
 # Release version
 VERSION = 3.001
@@ -27,7 +27,6 @@ endif
 
 SRCARCHIVE  = brutalist-fonts-$(ARCHIVEVER)
 FULLARCHIVE = brutalist-fonts-ttf-$(ARCHIVEVER)
-LGCARCHIVE  = brutalist-lgc-fonts-ttf-$(ARCHIVEVER)
 
 ARCHIVEEXT = .zip .tar.bz2
 SUMEXT     = .zip.md5 .tar.bz2.md5 .tar.bz2.sha512
@@ -39,7 +38,6 @@ FC-LANG     = $(RESOURCEDIR)/fc-lang
 
 GENERATE    = $(SCRIPTSDIR)/generate.pe
 TTPOSTPROC  = $(SCRIPTSDIR)/ttpostproc.pl
-LGC         = $(SCRIPTSDIR)/lgc.pe
 UNICOVER    = $(SCRIPTSDIR)/unicover.pl
 LANGCOVER   = $(SCRIPTSDIR)/langcover.pl
 STATUS	    = $(SCRIPTSDIR)/status.pl
@@ -50,24 +48,12 @@ NARROW      = $(SCRIPTSDIR)/narrow.pe
 SRC      := $(wildcard $(SRCDIR)/*.sfd)
 SFDFILES := $(patsubst $(SRCDIR)/%, %, $(SRC))
 FULLSFD  := $(patsubst $(SRCDIR)/%.sfd, $(TMPDIR)/%.sfd, $(SRC))
-NORMSFD  := $(patsubst %, %.norm, $(FULLSFD))
-MATSHSFD := $(wildcard $(SRCDIR)/*Math*.sfd)
-LGCSRC   := $(filter-out $(MATSHSFD),$(SRC))
-LGCSFD   := $(patsubst $(SRCDIR)/Brutalist%.sfd, $(TMPDIR)/BrutalistLGC%.sfd, $(LGCSRC))
 FULLTTF  := $(patsubst $(TMPDIR)/%.sfd, $(BUILDDIR)/%.ttf, $(FULLSFD))
-LGCTTF   := $(patsubst $(TMPDIR)/%.sfd, $(BUILDDIR)/%.ttf, $(LGCSFD))
-
-FONTCONF     := $(wildcard $(FONTCONFDIR)/*.conf)
-FONTCONFLGC  := $(wildcard $(FONTCONFDIR)/*lgc*.conf)
-FONTCONFFULL := $(filter-out $(FONTCONFLGC), $(FONTCONF))
 
 STATICDOC := $(addprefix $(DOCDIR)/, LICENSE README.md)
 STATICSRCDOC := $(addprefix $(DOCDIR)/, BUILDING.md)
 GENDOCFULL = unicover.txt langcover.txt status.txt
-GENDOCLGC  = unicover-lgc.txt langcover-lgc.txt
 
-#disable building lgc fonts
-#all : full lgc
 all : full
 
 $(TMPDIR)/%.sfd: $(SRCDIR)/%.sfd
@@ -75,22 +61,6 @@ $(TMPDIR)/%.sfd: $(SRCDIR)/%.sfd
 	install -d $(dir $@)
 	sed "s@\(Version:\? \)\(0\.[0-9]\+\.[0-9]\+\|[1-9][0-9]*\.[0-9]\+\)@\1$(VERSION)@" $< > $@
 	touch -r $< $@
-
-$(TMPDIR)/BrutalistLGCMathTeXGyre.sfd: $(TMPDIR)/BrutalistMathTeXGyre.sfd
-	@echo "[2] skipping $<"
-
-$(TMPDIR)/BrutalistLGC%.sfd: $(TMPDIR)/Brutalist%.sfd
-	@echo "[2] $< => $@"
-	sed -e 's,FontName: Brutalist,FontName: BrutalistLGC,'\
-	    -e 's,FullName: Brutalist,FullName: Brutalist LGC,'\
-	    -e 's,FamilyName: Brutalist,FamilyName: Brutalist LGC,'\
-	    -e 's,"Brutalist \(\(Sans\|Serif\)*\( Condensed\| Mono\)*\( Bold\)*\( Oblique\|Italic\)*\)","Brutalist LGC \1",g' < $< > $@
-	@echo "Stripping unwanted glyphs from $@"
-	$(LGC) $@
-	touch -r $< $@
-
-$(BUILDDIR)/BrutalistLGCMathTeXGyre.ttf: $(TMPDIR)/BrutalistLGCMathTeXGyre.sfd
-	@echo "[3] skipping $<"
 
 $(BUILDDIR)/%.ttf: $(TMPDIR)/%.sfd
 	@echo "[3] $< => $@"
@@ -106,36 +76,20 @@ $(BUILDDIR)/status.txt: $(FULLSFD)
 	install -d $(dir $@)
 	$(STATUS) $(VERSION) $(OLDSTATUS) $(FULLSFD) > $@
 
-$(BUILDDIR)/unicover.txt: $(patsubst %, $(TMPDIR)/%.sfd, BrutalistMono)
+$(BUILDDIR)/unicover.txt: $(patsubst %, $(TMPDIR)/%.sfd, BrutalistMono-Regular)
 	@echo "[5] => $@"
 	install -d $(dir $@)
 	$(UNICOVER) $(UNICODEDATA) $(BLOCKS) \
-	            $(TMPDIR)/BrutalistMono.sfd "Sans Mono" > $@
+	            $(TMPDIR)/BrutalistMono-Regular.sfd "Sans Mono" > $@
 
-$(BUILDDIR)/unicover-lgc.txt: $(patsubst %, $(TMPDIR)/%.sfd, BrutalistLGCMono)
-	@echo "[5] => $@"
-	install -d $(dir $@)
-	$(UNICOVER) $(UNICODEDATA) $(BLOCKS) \
-	            $(TMPDIR)/BrutalistLGCMono.sfd "Sans Mono" > $@
-
-$(BUILDDIR)/langcover.txt: $(patsubst %, $(TMPDIR)/%.sfd, BrutalistMono)
+$(BUILDDIR)/langcover.txt: $(patsubst %, $(TMPDIR)/%.sfd, BrutalistMono-Regular)
 	@echo "[6] => $@"
 	install -d $(dir $@)
 ifeq "$(FC-LANG)" ""
 	touch $@
 else
 	$(LANGCOVER) $(FC-LANG) \
-	             $(TMPDIR)/BrutalistMono.sfd "Sans Mono" > $@
-endif
-
-$(BUILDDIR)/langcover-lgc.txt: $(patsubst %, $(TMPDIR)/%.sfd, BrutalistLGCMono)
-	@echo "[6] => $@"
-	install -d $(dir $@)
-ifeq "$(FC-LANG)" ""
-	touch $@
-else
-	$(LANGCOVER) $(FC-LANG) \
-	             $(TMPDIR)/BrutalistLGCMono.sfd "Sans Mono" > $@
+	             $(TMPDIR)/BrutalistMono-Regular.sfd "Sans Mono" > $@
 endif
 
 $(BUILDDIR)/Makefile: Makefile
@@ -151,7 +105,7 @@ $(TMPDIR)/$(SRCARCHIVE): $(addprefix $(BUILDDIR)/, $(GENDOCFULL) Makefile) $(FUL
 	install -d -m 0755 $@/$(SRCDIR)
 	install -d -m 0755 $@/$(DOCDIR)
 	install -p -m 0644 $(BUILDDIR)/Makefile $@
-	install -p -m 0755 $(GENERATE) $(TTPOSTPROC) $(LGC) $(NORMALIZE) \
+	install -p -m 0755 $(GENERATE) $(TTPOSTPROC) $(NORMALIZE) \
 	                   $(UNICOVER) $(LANGCOVER) $(STATUS) $(PROBLEMS) \
 	                   $@/$(SCRIPTSDIR)
 	install -p -m 0644 $(FULLSFD) $@/$(SRCDIR)
@@ -164,14 +118,6 @@ $(TMPDIR)/$(FULLARCHIVE): full
 	install -d -m 0755 $@/$(DOCDIR)
 	install -p -m 0644 $(FULLTTF) $@/$(TTFDIR)
 	install -p -m 0644 $(addprefix $(BUILDDIR)/, $(GENDOCFULL)) \
-	                   $(STATICDOC) $@/$(DOCDIR)
-
-$(TMPDIR)/$(LGCARCHIVE): lgc
-	@echo "[8] => $@"
-	install -d -m 0755 $@/$(TTFDIR)
-	install -d -m 0755 $@/$(DOCDIR)
-	install -p -m 0644 $(LGCTTF) $@/$(TTFDIR)
-	install -p -m 0644 $(addprefix $(BUILDDIR)/, $(GENDOCLGC)) \
 	                   $(STATICDOC) $@/$(DOCDIR)
 
 $(DISTDIR)/%.zip: $(TMPDIR)/%
@@ -211,23 +157,17 @@ munge: $(NORMSFD)
 
 full : $(FULLTTF) $(addprefix $(BUILDDIR)/, $(GENDOCFULL))
 
-lgc : $(LGCTTF) $(addprefix $(BUILDDIR)/, $(GENDOCLGC))
-
-ttf : full-ttf -ttf lgc-ttf
+ttf : full-ttf -ttf
 
 full-ttf : $(FULLTTF)
 
-lgc-ttf : $(LGCTTF)
-
 status : $(addprefix $(BUILDDIR)/, $(GENDOCFULL))
 
-dist : src-dist full-dist lgc-dist
+dist : src-dist full-dist
 
 src-dist :  $(addprefix $(DISTDIR)/$(SRCARCHIVE),  $(ARCHIVEEXT) $(SUMEXT))
 
 full-dist : $(addprefix $(DISTDIR)/$(FULLARCHIVE), $(ARCHIVEEXT) $(SUMEXT))
-
-lgc-dist :  $(addprefix $(DISTDIR)/$(LGCARCHIVE),  $(ARCHIVEEXT) $(SUMEXT))
 
 norm : $(NORMSFD)
 

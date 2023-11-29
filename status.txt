@@ -1,0 +1,3324 @@
+U+0020 space                3.1
+U+0021 exclam               3.1
+U+0022 quotedbl             3.1
+U+0023 numbersign           3.1
+U+0024 dollar               3.1
+U+0025 percent              3.1
+U+0026 ampersand            3.1
+U+0027 quotesingle          3.1
+U+0028 parenleft            3.1
+U+0029 parenright           3.1
+U+002a asterisk             3.1
+U+002b plus                 3.1
+U+002c comma                3.1
+U+002d hyphen               3.1
+U+002e period               3.1
+U+002f slash                3.1
+U+0030 zero                 3.1
+U+0031 one                  3.1
+U+0032 two                  3.1
+U+0033 three                3.1
+U+0034 four                 3.1
+U+0035 five                 3.1
+U+0036 six                  3.1
+U+0037 seven                3.1
+U+0038 eight                3.1
+U+0039 nine                 3.1
+U+003a colon                3.1
+U+003b semicolon            3.1
+U+003c less                 3.1
+U+003d equal                3.1
+U+003e greater              3.1
+U+003f question             3.1
+U+0040 at                   3.1
+U+0041 A                    3.1
+U+0042 B                    3.1
+U+0043 C                    3.1
+U+0044 D                    3.1
+U+0045 E                    3.1
+U+0046 F                    3.1
+U+0047 G                    3.1
+U+0048 H                    3.1
+U+0049 I                    3.1
+U+004a J                    3.1
+U+004b K                    3.1
+U+004c L                    3.1
+U+004d M                    3.1
+U+004e N                    3.1
+U+004f O                    3.1
+U+0050 P                    3.1
+U+0051 Q                    3.1
+U+0052 R                    3.1
+U+0053 S                    3.1
+U+0054 T                    3.1
+U+0055 U                    3.1
+U+0056 V                    3.1
+U+0057 W                    3.1
+U+0058 X                    3.1
+U+0059 Y                    3.1
+U+005a Z                    3.1
+U+005b bracketleft          3.1
+U+005c backslash            3.1
+U+005d bracketright         3.1
+U+005e asciicircum          3.1
+U+005f underscore           3.1
+U+0060 grave                3.1
+U+0061 a                    3.1
+U+0062 b                    3.1
+U+0063 c                    3.1
+U+0064 d                    3.1
+U+0065 e                    3.1
+U+0066 f                    3.1
+U+0067 g                    3.1
+U+0068 h                    3.1
+U+0069 i                    3.1
+U+006a j                    3.1
+U+006b k                    3.1
+U+006c l                    3.1
+U+006d m                    3.1
+U+006e n                    3.1
+U+006f o                    3.1
+U+0070 p                    3.1
+U+0071 q                    3.1
+U+0072 r                    3.1
+U+0073 s                    3.1
+U+0074 t                    3.1
+U+0075 u                    3.1
+U+0076 v                    3.1
+U+0077 w                    3.1
+U+0078 x                    3.1
+U+0079 y                    3.1
+U+007a z                    3.1
+U+007b braceleft            3.1
+U+007c bar                  3.1
+U+007d braceright           3.1
+U+007e asciitilde           3.1
+U+00a0 nonbreakingspace     3.1
+U+00a1 exclamdown           3.1
+U+00a2 cent                 3.1
+U+00a3 sterling             3.1
+U+00a4 currency             3.1
+U+00a5 yen                  3.1
+U+00a6 brokenbar            3.1
+U+00a7 section              3.1
+U+00a8 dieresis             3.1
+U+00a9 copyright            3.1
+U+00aa ordfeminine          3.1
+U+00ab guillemotleft        3.1
+U+00ac logicalnot           3.1
+U+00ad sfthyphen            3.1
+U+00ae registered           3.1
+U+00af macron               3.1
+U+00b0 degree               3.1
+U+00b1 plusminus            3.1
+U+00b2 twosuperior          3.1
+U+00b3 threesuperior        3.1
+U+00b4 acute                3.1
+U+00b5 mu                   3.1
+U+00b6 paragraph            3.1
+U+00b7 periodcentered       3.1
+U+00b8 cedilla              3.1
+U+00b9 onesuperior          3.1
+U+00ba ordmasculine         3.1
+U+00bb guillemotright       3.1
+U+00bc onequarter           3.1
+U+00bd onehalf              3.1
+U+00be threequarters        3.1
+U+00bf questiondown         3.1
+U+00c0 Agrave               3.1
+U+00c1 Aacute               3.1
+U+00c2 Acircumflex          3.1
+U+00c3 Atilde               3.1
+U+00c4 Adieresis            3.1
+U+00c5 Aring                3.1
+U+00c6 AE                   3.1
+U+00c7 Ccedilla             3.1
+U+00c8 Egrave               3.1
+U+00c9 Eacute               3.1
+U+00ca Ecircumflex          3.1
+U+00cb Edieresis            3.1
+U+00cc Igrave               3.1
+U+00cd Iacute               3.1
+U+00ce Icircumflex          3.1
+U+00cf Idieresis            3.1
+U+00d0 Eth                  3.1
+U+00d1 Ntilde               3.1
+U+00d2 Ograve               3.1
+U+00d3 Oacute               3.1
+U+00d4 Ocircumflex          3.1
+U+00d5 Otilde               3.1
+U+00d6 Odieresis            3.1
+U+00d7 multiply             3.1
+U+00d8 Oslash               3.1
+U+00d9 Ugrave               3.1
+U+00da Uacute               3.1
+U+00db Ucircumflex          3.1
+U+00dc Udieresis            3.1
+U+00dd Yacute               3.1
+U+00de Thorn                3.1
+U+00df germandbls           3.1
+U+00e0 agrave               3.1
+U+00e1 aacute               3.1
+U+00e2 acircumflex          3.1
+U+00e3 atilde               3.1
+U+00e4 adieresis            3.1
+U+00e5 aring                3.1
+U+00e6 ae                   3.1
+U+00e7 ccedilla             3.1
+U+00e8 egrave               3.1
+U+00e9 eacute               3.1
+U+00ea ecircumflex          3.1
+U+00eb edieresis            3.1
+U+00ec igrave               3.1
+U+00ed iacute               3.1
+U+00ee icircumflex          3.1
+U+00ef idieresis            3.1
+U+00f0 eth                  3.1
+U+00f1 ntilde               3.1
+U+00f2 ograve               3.1
+U+00f3 oacute               3.1
+U+00f4 ocircumflex          3.1
+U+00f5 otilde               3.1
+U+00f6 odieresis            3.1
+U+00f7 divide               3.1
+U+00f8 oslash               3.1
+U+00f9 ugrave               3.1
+U+00fa uacute               3.1
+U+00fb ucircumflex          3.1
+U+00fc udieresis            3.1
+U+00fd yacute               3.1
+U+00fe thorn                3.1
+U+00ff ydieresis            3.1
+U+0100 Amacron              3.1
+U+0101 amacron              3.1
+U+0102 Abreve               3.1
+U+0103 abreve               3.1
+U+0104 Aogonek              3.1
+U+0105 aogonek              3.1
+U+0106 Cacute               3.1
+U+0107 cacute               3.1
+U+0108 Ccircumflex          3.1
+U+0109 ccircumflex          3.1
+U+010a Cdotaccent           3.1
+U+010b cdotaccent           3.1
+U+010c Ccaron               3.1
+U+010d ccaron               3.1
+U+010e Dcaron               3.1
+U+010f dcaron               3.1
+U+0110 Dcroat               3.1
+U+0111 dcroat               3.1
+U+0112 Emacron              3.1
+U+0113 emacron              3.1
+U+0114 Ebreve               3.1
+U+0115 ebreve               3.1
+U+0116 Edotaccent           3.1
+U+0117 edotaccent           3.1
+U+0118 Eogonek              3.1
+U+0119 eogonek              3.1
+U+011a Ecaron               3.1
+U+011b ecaron               3.1
+U+011c Gcircumflex          3.1
+U+011d gcircumflex          3.1
+U+011e Gbreve               3.1
+U+011f gbreve               3.1
+U+0120 Gdotaccent           3.1
+U+0121 gdotaccent           3.1
+U+0122 Gcommaaccent         3.1
+U+0123 gcommaaccent         3.1
+U+0124 Hcircumflex          3.1
+U+0125 hcircumflex          3.1
+U+0126 Hbar                 3.1
+U+0127 hbar                 3.1
+U+0128 Itilde               3.1
+U+0129 itilde               3.1
+U+012a Imacron              3.1
+U+012b imacron              3.1
+U+012c Ibreve               3.1
+U+012d ibreve               3.1
+U+012e Iogonek              3.1
+U+012f iogonek              3.1
+U+0130 Idotaccent           3.1
+U+0131 dotlessi             3.1
+U+0132 IJ                   3.1
+U+0133 ij                   3.1
+U+0134 Jcircumflex          3.1
+U+0135 jcircumflex          3.1
+U+0136 Kcommaaccent         3.1
+U+0137 kcommaaccent         3.1
+U+0138 kgreenlandic         3.1
+U+0139 Lacute               3.1
+U+013a lacute               3.1
+U+013b Lcommaaccent         3.1
+U+013c lcommaaccent         3.1
+U+013d Lcaron               3.1
+U+013e lcaron               3.1
+U+013f Ldot                 3.1
+U+0140 ldot                 3.1
+U+0141 Lslash               3.1
+U+0142 lslash               3.1
+U+0143 Nacute               3.1
+U+0144 nacute               3.1
+U+0145 Ncommaaccent         3.1
+U+0146 ncommaaccent         3.1
+U+0147 Ncaron               3.1
+U+0148 ncaron               3.1
+U+0149 napostrophe          3.1
+U+014a Eng                  3.1
+U+014b eng                  3.1
+U+014c Omacron              3.1
+U+014d omacron              3.1
+U+014e Obreve               3.1
+U+014f obreve               3.1
+U+0150 Ohungarumlaut        3.1
+U+0151 ohungarumlaut        3.1
+U+0152 OE                   3.1
+U+0153 oe                   3.1
+U+0154 Racute               3.1
+U+0155 racute               3.1
+U+0156 Rcommaaccent         3.1
+U+0157 rcommaaccent         3.1
+U+0158 Rcaron               3.1
+U+0159 rcaron               3.1
+U+015a Sacute               3.1
+U+015b sacute               3.1
+U+015c Scircumflex          3.1
+U+015d scircumflex          3.1
+U+015e Scedilla             3.1
+U+015f scedilla             3.1
+U+0160 Scaron               3.1
+U+0161 scaron               3.1
+U+0162 Tcommaaccent         3.1
+U+0163 tcommaaccent         3.1
+U+0164 Tcaron               3.1
+U+0165 tcaron               3.1
+U+0166 Tbar                 3.1
+U+0167 tbar                 3.1
+U+0168 Utilde               3.1
+U+0169 utilde               3.1
+U+016a Umacron              3.1
+U+016b umacron              3.1
+U+016c Ubreve               3.1
+U+016d ubreve               3.1
+U+016e Uring                3.1
+U+016f uring                3.1
+U+0170 Uhungarumlaut        3.1
+U+0171 uhungarumlaut        3.1
+U+0172 Uogonek              3.1
+U+0173 uogonek              3.1
+U+0174 Wcircumflex          3.1
+U+0175 wcircumflex          3.1
+U+0176 Ycircumflex          3.1
+U+0177 ycircumflex          3.1
+U+0178 Ydieresis            3.1
+U+0179 Zacute               3.1
+U+017a zacute               3.1
+U+017b Zdotaccent           3.1
+U+017c zdotaccent           3.1
+U+017d Zcaron               3.1
+U+017e zcaron               3.1
+U+017f longs                3.1
+U+0180 uni0180              3.1
+U+0181 uni0181              3.1
+U+0182 uni0182              3.1
+U+0183 uni0183              3.1
+U+0184 uni0184              3.1
+U+0185 uni0185              3.1
+U+0186 uni0186              3.1
+U+0187 uni0187              3.1
+U+0188 uni0188              3.1
+U+0189 uni0189              3.1
+U+018a uni018A              3.1
+U+018b uni018B              3.1
+U+018c uni018C              3.1
+U+018d uni018D              3.1
+U+018e uni018E              3.1
+U+018f uni018F              3.1
+U+0190 uni0190              3.1
+U+0191 uni0191              3.1
+U+0192 florin               3.1
+U+0193 uni0193              3.1
+U+0194 uni0194              3.1
+U+0195 uni0195              3.1
+U+0196 uni0196              3.1
+U+0197 uni0197              3.1
+U+0198 uni0198              3.1
+U+0199 uni0199              3.1
+U+019a uni019A              3.1
+U+019b uni019B              3.1
+U+019c uni019C              3.1
+U+019d uni019D              3.1
+U+019e uni019E              3.1
+U+019f uni019F              3.1
+U+01a0 Ohorn                3.1
+U+01a1 ohorn                3.1
+U+01a2 uni01A2              3.1
+U+01a3 uni01A3              3.1
+U+01a4 uni01A4              3.1
+U+01a5 uni01A5              3.1
+U+01a6 uni01A6              3.1
+U+01a7 uni01A7              3.1
+U+01a8 uni01A8              3.1
+U+01a9 uni01A9              3.1
+U+01aa uni01AA              3.1
+U+01ab uni01AB              3.1
+U+01ac uni01AC              3.1
+U+01ad uni01AD              3.1
+U+01ae uni01AE              3.1
+U+01af Uhorn                3.1
+U+01b0 uhorn                3.1
+U+01b1 uni01B1              3.1
+U+01b2 uni01B2              3.1
+U+01b3 uni01B3              3.1
+U+01b4 uni01B4              3.1
+U+01b5 uni01B5              3.1
+U+01b6 uni01B6              3.1
+U+01b7 uni01B7              3.1
+U+01b8 uni01B8              3.1
+U+01b9 uni01B9              3.1
+U+01ba uni01BA              3.1
+U+01bb uni01BB              3.1
+U+01bc uni01BC              3.1
+U+01bd uni01BD              3.1
+U+01be uni01BE              3.1
+U+01bf uni01BF              3.1
+U+01c0 uni01C0              3.1
+U+01c1 uni01C1              3.1
+U+01c2 uni01C2              3.1
+U+01c3 uni01C3              3.1
+U+01cd uni01CD              3.1
+U+01ce uni01CE              3.1
+U+01cf uni01CF              3.1
+U+01d0 uni01D0              3.1
+U+01d1 uni01D1              3.1
+U+01d2 uni01D2              3.1
+U+01d3 uni01D3              3.1
+U+01d4 uni01D4              3.1
+U+01d5 uni01D5              3.1
+U+01d6 uni01D6              3.1
+U+01d7 uni01D7              3.1
+U+01d8 uni01D8              3.1
+U+01d9 uni01D9              3.1
+U+01da uni01DA              3.1
+U+01db uni01DB              3.1
+U+01dc uni01DC              3.1
+U+01dd uni01DD              3.1
+U+01de uni01DE              3.1 (Mono, Mono Bold, Mono Bold Italic)
+U+01df uni01DF              3.1
+U+01e0 uni01E0              3.1
+U+01e1 uni01E1              3.1
+U+01e2 uni01E2              3.1
+U+01e3 uni01E3              3.1
+U+01e6 Gcaron               3.1
+U+01e7 gcaron               3.1
+U+01e8 uni01E8              3.1
+U+01e9 uni01E9              3.1
+U+01ea uni01EA              3.1
+U+01eb uni01EB              3.1
+U+01ec uni01EC              3.1
+U+01ed uni01ED              3.1
+U+01ee uni01EE              3.1
+U+01ef uni01EF              3.1
+U+01f0 uni01F0              3.1 (Mono, Mono Bold)
+U+01f4 uni01F4              3.1
+U+01f5 uni01F5              3.1
+U+01f6 uni01F6              3.1
+U+01f8 uni01F8              3.1
+U+01f9 uni01F9              3.1
+U+01fc AEacute              3.1
+U+01fd aeacute              3.1
+U+01fe Oslashacute          3.1
+U+01ff oslashacute          3.1
+U+0200 uni0200              3.1
+U+0201 uni0201              3.1
+U+0202 uni0202              3.1
+U+0203 uni0203              3.1
+U+0204 uni0204              3.1
+U+0205 uni0205              3.1
+U+0206 uni0206              3.1
+U+0207 uni0207              3.1
+U+0208 uni0208              3.1
+U+0209 uni0209              3.1
+U+020a uni020A              3.1
+U+020b uni020B              3.1
+U+020c uni020C              3.1
+U+020d uni020D              3.1
+U+020e uni020E              3.1
+U+020f uni020F              3.1
+U+0210 uni0210              3.1
+U+0211 uni0211              3.1
+U+0212 uni0212              3.1
+U+0213 uni0213              3.1
+U+0214 uni0214              3.1
+U+0215 uni0215              3.1
+U+0216 uni0216              3.1
+U+0217 uni0217              3.1
+U+0218 Scommaaccent         3.1
+U+0219 scommaaccent         3.1
+U+021a uni021A              3.1
+U+021b uni021B              3.1
+U+021c uni021C              3.1
+U+021d uni021D              3.1
+U+021e uni021E              3.1
+U+021f uni021F              3.1
+U+0220 uni0220              3.1 (Mono, Mono Bold)
+U+0221 uni0221              3.1
+U+0224 uni0224              3.1
+U+0225 uni0225              3.1
+U+0226 uni0226              3.1
+U+0227 uni0227              3.1
+U+0228 uni0228              3.1
+U+0229 uni0229              3.1
+U+022a uni022A              3.1
+U+022b uni022B              3.1
+U+022c uni022C              3.1
+U+022d uni022D              3.1
+U+022e uni022E              3.1
+U+022f uni022F              3.1
+U+0230 uni0230              3.1
+U+0231 uni0231              3.1
+U+0232 uni0232              3.1
+U+0233 uni0233              3.1
+U+0234 uni0234              3.1
+U+0235 uni0235              3.1
+U+0236 uni0236              3.1
+U+0237 dotlessj             3.1
+U+0238 uni0238              3.1
+U+0239 uni0239              3.1
+U+023a uni023A              3.1
+U+023b uni023B              3.1
+U+023c uni023C              3.1
+U+023d uni023D              3.1
+U+023e uni023E              3.1
+U+023f uni023F              3.1
+U+0240 uni0240              3.1
+U+0241 uni0241              3.1
+U+0243 uni0243              3.1
+U+0244 uni0244              3.1
+U+0245 uni0245              3.1
+U+024c uni024C              3.1
+U+024d uni024D              3.1
+U+0250 uni0250              3.1
+U+0251 uni0251              3.1
+U+0252 uni0252              3.1
+U+0253 uni0253              3.1
+U+0254 uni0254              3.1
+U+0255 uni0255              3.1
+U+0256 uni0256              3.1
+U+0257 uni0257              3.1
+U+0258 uni0258              3.1
+U+0259 uni0259              3.1
+U+025a uni025A              3.1
+U+025b uni025B              3.1
+U+025c uni025C              3.1
+U+025d uni025D              3.1
+U+025e uni025E              3.1
+U+025f uni025F              3.1
+U+0260 uni0260              3.1
+U+0261 uni0261              3.1
+U+0262 uni0262              3.1
+U+0263 uni0263              3.1
+U+0264 uni0264              3.1
+U+0265 uni0265              3.1
+U+0266 uni0266              3.1
+U+0267 uni0267              3.1
+U+0268 uni0268              3.1
+U+0269 uni0269              3.1
+U+026a uni026A              3.1
+U+026b uni026B              3.1
+U+026c uni026C              3.1
+U+026d uni026D              3.1
+U+026e uni026E              3.1
+U+026f uni026F              3.1
+U+0270 uni0270              3.1
+U+0271 uni0271              3.1
+U+0272 uni0272              3.1
+U+0273 uni0273              3.1
+U+0274 uni0274              3.1
+U+0275 uni0275              3.1
+U+0276 uni0276              3.1
+U+0277 uni0277              3.1
+U+0278 uni0278              3.1
+U+0279 uni0279              3.1
+U+027a uni027A              3.1
+U+027b uni027B              3.1
+U+027c uni027C              3.1
+U+027d uni027D              3.1
+U+027e uni027E              3.1
+U+027f uni027F              3.1
+U+0280 uni0280              3.1
+U+0281 uni0281              3.1
+U+0282 uni0282              3.1
+U+0283 uni0283              3.1
+U+0284 uni0284              3.1
+U+0285 uni0285              3.1
+U+0286 uni0286              3.1
+U+0287 uni0287              3.1
+U+0288 uni0288              3.1
+U+0289 uni0289              3.1
+U+028a uni028A              3.1
+U+028b uni028B              3.1
+U+028c uni028C              3.1
+U+028d uni028D              3.1
+U+028e uni028E              3.1
+U+028f uni028F              3.1
+U+0290 uni0290              3.1
+U+0291 uni0291              3.1
+U+0292 uni0292              3.1
+U+0293 uni0293              3.1
+U+0294 uni0294              3.1
+U+0295 uni0295              3.1
+U+0296 uni0296              3.1
+U+0297 uni0297              3.1
+U+0298 uni0298              3.1
+U+0299 uni0299              3.1
+U+029a uni029A              3.1
+U+029b uni029B              3.1
+U+029c uni029C              3.1
+U+029d uni029D              3.1
+U+029e uni029E              3.1
+U+029f uni029F              3.1
+U+02a0 uni02A0              3.1
+U+02a1 uni02A1              3.1
+U+02a2 uni02A2              3.1
+U+02a3 uni02A3              3.1
+U+02a4 uni02A4              3.1
+U+02a5 uni02A5              3.1
+U+02a6 uni02A6              3.1
+U+02a7 uni02A7              3.1
+U+02a8 uni02A8              3.1
+U+02a9 uni02A9              3.1
+U+02aa uni02AA              3.1
+U+02ab uni02AB              3.1
+U+02ac uni02AC              3.1
+U+02ad uni02AD              3.1
+U+02ae uni02AE              3.1
+U+02af uni02AF              3.1
+U+02b0 uni02B0              3.1
+U+02b1 uni02B1              3.1
+U+02b2 uni02B2              3.1
+U+02b3 uni02B3              3.1
+U+02b4 uni02B4              3.1
+U+02b5 uni02B5              3.1
+U+02b6 uni02B6              3.1
+U+02b7 uni02B7              3.1
+U+02b8 uni02B8              3.1
+U+02b9 uni02B9              3.1
+U+02bb uni02BB              3.1
+U+02bc uni02BC              3.1
+U+02bd uni02BD              3.1
+U+02be uni02BE              3.1
+U+02bf uni02BF              3.1
+U+02c0 uni02C0              3.1
+U+02c1 uni02C1              3.1
+U+02c6 circumflex           3.1
+U+02c7 caron                3.1
+U+02c8 uni02C8              3.1
+U+02c9 uni02C9              3.1
+U+02cc uni02CC              3.1
+U+02cd uni02CD              3.1
+U+02ce uni02CE              3.1
+U+02cf uni02CF              3.1
+U+02d0 uni02D0              3.1
+U+02d1 uni02D1              3.1
+U+02d2 uni02D2              3.1
+U+02d3 uni02D3              3.1
+U+02d6 uni02D6              3.1
+U+02d7 uni02D7              3.1
+U+02d8 breve                3.1
+U+02d9 dotaccent            3.1
+U+02da ring                 3.1
+U+02db ogonek               3.1
+U+02dc tilde                3.1
+U+02dd hungarumlaut         3.1
+U+02de uni02DE              3.1
+U+02e0 uni02E0              3.1
+U+02e1 uni02E1              3.1
+U+02e2 uni02E2              3.1
+U+02e3 uni02E3              3.1
+U+02e4 uni02E4              3.1
+U+02e5 uni02E5              3.1
+U+02e6 uni02E6              3.1
+U+02e7 uni02E7              3.1
+U+02e8 uni02E8              3.1
+U+02e9 uni02E9              3.1
+U+02ee uni02EE              3.1
+U+02f3 uni02F3              3.1
+U+0300 gravecomb            3.1
+U+0301 acutecomb            3.1
+U+0302 uni0302              3.1
+U+0303 tildecomb            3.1
+U+0304 uni0304              3.1
+U+0305 uni0305              3.1
+U+0306 uni0306              3.1
+U+0307 uni0307              3.1
+U+0308 uni0308              3.1
+U+0309 hookabovecomb        3.1
+U+030a uni030A              3.1
+U+030b uni030B              3.1
+U+030c uni030C              3.1
+U+030d uni030D              3.1
+U+030e uni030E              3.1
+U+030f uni030F              3.1
+U+0310 uni0310              3.1
+U+0311 uni0311              3.1
+U+0312 uni0312              3.1
+U+0313 uni0313              3.1
+U+0314 uni0314              3.1
+U+0315 uni0315              3.1
+U+0316 uni0316              3.1
+U+0317 uni0317              3.1
+U+0318 uni0318              3.1
+U+0319 uni0319              3.1
+U+031a uni031A              3.1
+U+031b uni031B              3.1
+U+031c uni031C              3.1
+U+031d uni031D              3.1
+U+031e uni031E              3.1
+U+031f uni031F              3.1
+U+0320 uni0320              3.1
+U+0321 uni0321              3.1
+U+0322 uni0322              3.1
+U+0323 dotbelowcomb         3.1
+U+0324 uni0324              3.1
+U+0325 uni0325              3.1
+U+0326 uni0326              3.1
+U+0327 uni0327              3.1
+U+0328 uni0328              3.1
+U+0329 uni0329              3.1
+U+032a uni032A              3.1
+U+032b uni032B              3.1
+U+032c uni032C              3.1
+U+032d uni032D              3.1
+U+032e uni032E              3.1
+U+032f uni032F              3.1
+U+0330 uni0330              3.1
+U+0331 uni0331              3.1
+U+0332 uni0332              3.1
+U+0333 uni0333              3.1
+U+0334 uni0334              3.1
+U+0335 uni0335              3.1
+U+0336 uni0336              3.1
+U+0337 uni0337              3.1
+U+0338 uni0338              3.1
+U+0339 uni0339              3.1
+U+033a uni033A              3.1
+U+033b uni033B              3.1
+U+033c uni033C              3.1
+U+033d uni033D              3.1
+U+033e uni033E              3.1
+U+033f uni033F              3.1
+U+0343 uni0343              3.1
+U+0358 uni0358              3.1
+U+0361 uni0361              3.1
+U+0374 uni0374              3.1
+U+0375 uni0375              3.1
+U+0376 uni0376              3.1
+U+0377 uni0377              3.1
+U+037a uni037A              3.1
+U+037b uni037B              3.1
+U+037c uni037C              3.1
+U+037d uni037D              3.1
+U+037e uni037E              3.1
+U+037f uni037F              3.1
+U+0384 tonos                3.1
+U+0385 dieresistonos        3.1
+U+0386 Alphatonos           3.1
+U+0387 anoteleia            3.1
+U+0388 Epsilontonos         3.1
+U+0389 Etatonos             3.1
+U+038a Iotatonos            3.1
+U+038c Omicrontonos         3.1
+U+038e Upsilontonos         3.1
+U+038f Omegatonos           3.1
+U+0390 iotadieresistonos    3.1
+U+0391 Alpha                3.1
+U+0392 Beta                 3.1
+U+0393 Gamma                3.1
+U+0394 uni0394              3.1
+U+0395 Epsilon              3.1
+U+0396 Zeta                 3.1
+U+0397 Eta                  3.1
+U+0398 Theta                3.1
+U+0399 Iota                 3.1
+U+039a Kappa                3.1
+U+039b Lambda               3.1
+U+039c Mu                   3.1
+U+039d Nu                   3.1
+U+039e Xi                   3.1
+U+039f Omicron              3.1
+U+03a0 Pi                   3.1
+U+03a1 Rho                  3.1
+U+03a3 Sigma                3.1
+U+03a4 Tau                  3.1
+U+03a5 Upsilon              3.1
+U+03a6 Phi                  3.1
+U+03a7 Chi                  3.1
+U+03a8 Psi                  3.1
+U+03a9 Omega                3.1
+U+03aa Iotadieresis         3.1
+U+03ab Upsilondieresis      3.1
+U+03ac alphatonos           3.1
+U+03ad epsilontonos         3.1
+U+03ae etatonos             3.1
+U+03af iotatonos            3.1
+U+03b0 upsilondieresistonos 3.1
+U+03b1 alpha                3.1
+U+03b2 beta                 3.1
+U+03b3 gamma                3.1
+U+03b4 delta                3.1
+U+03b5 epsilon              3.1
+U+03b6 zeta                 3.1
+U+03b7 eta                  3.1
+U+03b8 theta                3.1
+U+03b9 iota                 3.1
+U+03ba kappa                3.1
+U+03bb lambda               3.1
+U+03bc uni03BC              3.1
+U+03bd nu                   3.1
+U+03be xi                   3.1
+U+03bf omicron              3.1
+U+03c0 pi                   3.1
+U+03c1 rho                  3.1
+U+03c2 sigma1               3.1
+U+03c3 sigma                3.1
+U+03c4 tau                  3.1
+U+03c5 upsilon              3.1
+U+03c6 phi                  3.1
+U+03c7 chi                  3.1
+U+03c8 psi                  3.1
+U+03c9 omega                3.1
+U+03ca iotadieresis         3.1
+U+03cb upsilondieresis      3.1
+U+03cc omicrontonos         3.1
+U+03cd upsilontonos         3.1
+U+03ce omegatonos           3.1
+U+03d0 uni03D0              3.1
+U+03d1 theta1               3.1
+U+03d2 Upsilon1             3.1
+U+03d3 uni03D3              3.1
+U+03d4 uni03D4              3.1
+U+03d5 phi1                 3.1
+U+03d6 omega1               3.1
+U+03d7 uni03D7              3.1
+U+03d8 uni03D8              3.1
+U+03d9 uni03D9              3.1
+U+03da uni03DA              3.1
+U+03db uni03DB              3.1
+U+03dc uni03DC              3.1
+U+03dd uni03DD              3.1
+U+03de uni03DE              3.1
+U+03df uni03DF              3.1
+U+03e0 uni03E0              3.1
+U+03e1 uni03E1              3.1
+U+03f0 uni03F0              3.1
+U+03f1 uni03F1              3.1
+U+03f2 uni03F2              3.1
+U+03f3 uni03F3              3.1
+U+03f4 uni03F4              3.1
+U+03f5 uni03F5              3.1
+U+03f6 uni03F6              3.1
+U+03f7 uni03F7              3.1
+U+03f8 uni03F8              3.1
+U+03f9 uni03F9              3.1
+U+03fa uni03FA              3.1
+U+03fb uni03FB              3.1
+U+03fc uni03FC              3.1
+U+03fd uni03FD              3.1
+U+03fe uni03FE              3.1
+U+03ff uni03FF              3.1
+U+0400 uni0400              3.1
+U+0401 uni0401              3.1
+U+0402 uni0402              3.1
+U+0403 uni0403              3.1
+U+0404 uni0404              3.1
+U+0405 uni0405              3.1
+U+0406 uni0406              3.1
+U+0407 uni0407              3.1
+U+0408 uni0408              3.1
+U+0409 uni0409              3.1
+U+040a uni040A              3.1
+U+040b uni040B              3.1
+U+040c uni040C              3.1
+U+040d uni040D              3.1
+U+040e uni040E              3.1
+U+040f uni040F              3.1
+U+0410 uni0410              3.1
+U+0411 uni0411              3.1
+U+0412 uni0412              3.1
+U+0413 uni0413              3.1
+U+0414 uni0414              3.1
+U+0415 uni0415              3.1
+U+0416 uni0416              3.1
+U+0417 uni0417              3.1
+U+0418 uni0418              3.1
+U+0419 uni0419              3.1
+U+041a uni041A              3.1
+U+041b uni041B              3.1
+U+041c uni041C              3.1
+U+041d uni041D              3.1
+U+041e uni041E              3.1
+U+041f uni041F              3.1
+U+0420 uni0420              3.1
+U+0421 uni0421              3.1
+U+0422 uni0422              3.1
+U+0423 uni0423              3.1
+U+0424 uni0424              3.1
+U+0425 uni0425              3.1
+U+0426 uni0426              3.1
+U+0427 uni0427              3.1
+U+0428 uni0428              3.1
+U+0429 uni0429              3.1
+U+042a uni042A              3.1
+U+042b uni042B              3.1
+U+042c uni042C              3.1
+U+042d uni042D              3.1
+U+042e uni042E              3.1
+U+042f uni042F              3.1
+U+0430 uni0430              3.1
+U+0431 uni0431              3.1
+U+0432 uni0432              3.1
+U+0433 uni0433              3.1
+U+0434 uni0434              3.1
+U+0435 uni0435              3.1
+U+0436 uni0436              3.1
+U+0437 uni0437              3.1
+U+0438 uni0438              3.1
+U+0439 uni0439              3.1
+U+043a uni043A              3.1
+U+043b uni043B              3.1
+U+043c uni043C              3.1
+U+043d uni043D              3.1
+U+043e uni043E              3.1
+U+043f uni043F              3.1
+U+0440 uni0440              3.1
+U+0441 uni0441              3.1
+U+0442 uni0442              3.1
+U+0443 uni0443              3.1
+U+0444 uni0444              3.1
+U+0445 uni0445              3.1
+U+0446 uni0446              3.1
+U+0447 uni0447              3.1
+U+0448 uni0448              3.1
+U+0449 uni0449              3.1
+U+044a uni044A              3.1
+U+044b uni044B              3.1
+U+044c uni044C              3.1
+U+044d uni044D              3.1
+U+044e uni044E              3.1
+U+044f uni044F              3.1
+U+0450 uni0450              3.1
+U+0451 uni0451              3.1
+U+0452 uni0452              3.1
+U+0453 uni0453              3.1
+U+0454 uni0454              3.1
+U+0455 uni0455              3.1
+U+0456 uni0456              3.1
+U+0457 uni0457              3.1
+U+0458 uni0458              3.1
+U+0459 uni0459              3.1
+U+045a uni045A              3.1
+U+045b uni045B              3.1
+U+045c uni045C              3.1
+U+045d uni045D              3.1
+U+045e uni045E              3.1
+U+045f uni045F              3.1
+U+0462 uni0462              3.1
+U+0463 uni0463              3.1
+U+0472 uni0472              3.1
+U+0473 uni0473              3.1
+U+0490 uni0490              3.1
+U+0491 uni0491              3.1
+U+0492 uni0492              3.1
+U+0493 uni0493              3.1
+U+0494 uni0494              3.1
+U+0495 uni0495              3.1
+U+0496 uni0496              3.1
+U+0497 uni0497              3.1
+U+0498 uni0498              3.1
+U+0499 uni0499              3.1
+U+049a uni049A              3.1
+U+049b uni049B              3.1
+U+04a2 uni04A2              3.1
+U+04a3 uni04A3              3.1
+U+04a4 uni04A4              3.1
+U+04a5 uni04A5              3.1
+U+04aa uni04AA              3.1
+U+04ab uni04AB              3.1
+U+04ac uni04AC              3.1
+U+04ad uni04AD              3.1
+U+04ae uni04AE              3.1
+U+04af uni04AF              3.1
+U+04b0 uni04B0              3.1
+U+04b1 uni04B1              3.1
+U+04b2 uni04B2              3.1
+U+04b3 uni04B3              3.1
+U+04ba uni04BA              3.1
+U+04bb uni04BB              3.1
+U+04c0 uni04C0              3.1
+U+04c1 uni04C1              3.1
+U+04c2 uni04C2              3.1
+U+04c3 uni04C3              3.1
+U+04c4 uni04C4              3.1
+U+04c7 uni04C7              3.1
+U+04c8 uni04C8              3.1
+U+04cb uni04CB              3.1
+U+04cc uni04CC              3.1
+U+04cf uni04CF              3.1
+U+04d0 uni04D0              3.1
+U+04d1 uni04D1              3.1
+U+04d2 uni04D2              3.1
+U+04d3 uni04D3              3.1
+U+04d4 uni04D4              3.1
+U+04d5 uni04D5              3.1
+U+04d6 uni04D6              3.1
+U+04d7 uni04D7              3.1
+U+04d8 uni04D8              3.1
+U+04d9 uni04D9              3.1
+U+04da uni04DA              3.1
+U+04db uni04DB              3.1
+U+04dc uni04DC              3.1
+U+04dd uni04DD              3.1
+U+04de uni04DE              3.1
+U+04df uni04DF              3.1
+U+04e0 uni04E0              3.1
+U+04e1 uni04E1              3.1
+U+04e2 uni04E2              3.1
+U+04e3 uni04E3              3.1
+U+04e4 uni04E4              3.1
+U+04e5 uni04E5              3.1
+U+04e6 uni04E6              3.1
+U+04e7 uni04E7              3.1
+U+04e8 uni04E8              3.1
+U+04e9 uni04E9              3.1
+U+04ea uni04EA              3.1
+U+04eb uni04EB              3.1
+U+04ec uni04EC              3.1
+U+04ed uni04ED              3.1
+U+04ee uni04EE              3.1
+U+04ef uni04EF              3.1
+U+04f0 uni04F0              3.1
+U+04f1 uni04F1              3.1
+U+04f2 uni04F2              3.1
+U+04f3 uni04F3              3.1
+U+04f4 uni04F4              3.1
+U+04f5 uni04F5              3.1
+U+04f6 uni04F6              3.1
+U+04f7 uni04F7              3.1
+U+04f8 uni04F8              3.1
+U+04f9 uni04F9              3.1
+U+0510 uni0510              3.1
+U+0511 uni0511              3.1
+U+051a uni051A              3.1
+U+051b uni051B              3.1
+U+051c uni051C              3.1
+U+051d uni051D              3.1
+U+0531 uni0531              3.1
+U+0532 uni0532              3.1
+U+0533 uni0533              3.1
+U+0534 uni0534              3.1
+U+0535 uni0535              3.1
+U+0536 uni0536              3.1
+U+0537 uni0537              3.1
+U+0538 uni0538              3.1
+U+0539 uni0539              3.1
+U+053a uni053A              3.1
+U+053b uni053B              3.1
+U+053c uni053C              3.1
+U+053d uni053D              3.1
+U+053e uni053E              3.1
+U+053f uni053F              3.1
+U+0540 uni0540              3.1
+U+0541 uni0541              3.1
+U+0542 uni0542              3.1
+U+0543 uni0543              3.1
+U+0544 uni0544              3.1
+U+0545 uni0545              3.1
+U+0546 uni0546              3.1
+U+0547 uni0547              3.1
+U+0548 uni0548              3.1
+U+0549 uni0549              3.1
+U+054a uni054A              3.1
+U+054b uni054B              3.1
+U+054c uni054C              3.1
+U+054d uni054D              3.1
+U+054e uni054E              3.1
+U+054f uni054F              3.1
+U+0550 uni0550              3.1
+U+0551 uni0551              3.1
+U+0552 uni0552              3.1
+U+0553 uni0553              3.1
+U+0554 uni0554              3.1
+U+0555 uni0555              3.1
+U+0556 uni0556              3.1
+U+0559 uni0559              3.1
+U+055a uni055A              3.1
+U+055b uni055B              3.1
+U+055c uni055C              3.1
+U+055d uni055D              3.1
+U+055e uni055E              3.1
+U+055f uni055F              3.1
+U+0561 uni0561              3.1
+U+0562 uni0562              3.1
+U+0563 uni0563              3.1
+U+0564 uni0564              3.1
+U+0565 uni0565              3.1
+U+0566 uni0566              3.1
+U+0567 uni0567              3.1
+U+0568 uni0568              3.1
+U+0569 uni0569              3.1
+U+056a uni056A              3.1
+U+056b uni056B              3.1
+U+056c uni056C              3.1
+U+056d uni056D              3.1
+U+056e uni056E              3.1
+U+056f uni056F              3.1
+U+0570 uni0570              3.1
+U+0571 uni0571              3.1
+U+0572 uni0572              3.1
+U+0573 uni0573              3.1
+U+0574 uni0574              3.1
+U+0575 uni0575              3.1
+U+0576 uni0576              3.1
+U+0577 uni0577              3.1
+U+0578 uni0578              3.1
+U+0579 uni0579              3.1
+U+057a uni057A              3.1
+U+057b uni057B              3.1
+U+057c uni057C              3.1
+U+057d uni057D              3.1
+U+057e uni057E              3.1
+U+057f uni057F              3.1
+U+0580 uni0580              3.1
+U+0581 uni0581              3.1
+U+0582 uni0582              3.1
+U+0583 uni0583              3.1
+U+0584 uni0584              3.1
+U+0585 uni0585              3.1
+U+0586 uni0586              3.1
+U+0587 uni0587              3.1
+U+0589 uni0589              3.1
+U+058a uni058A              3.1
+U+0606 uni0606              3.1 (Mono, Mono Bold)
+U+0607 uni0607              3.1 (Mono, Mono Bold)
+U+0609 uni0609              3.1 (Mono, Mono Bold)
+U+060a uni060A              3.1 (Mono, Mono Bold)
+U+060c uni060C              3.1 (Mono, Mono Bold)
+U+0615 uni0615              3.1 (Mono, Mono Bold)
+U+061b uni061B              3.1 (Mono, Mono Bold)
+U+061f uni061F              3.1 (Mono, Mono Bold)
+U+0621 uni0621              3.1 (Mono, Mono Bold)
+U+0622 uni0622              3.1 (Mono, Mono Bold)
+U+0623 uni0623              3.1 (Mono, Mono Bold)
+U+0624 uni0624              3.1 (Mono, Mono Bold)
+U+0625 uni0625              3.1 (Mono, Mono Bold)
+U+0626 uni0626              3.1 (Mono, Mono Bold)
+U+0627 uni0627              3.1 (Mono, Mono Bold)
+U+0628 uni0628              3.1 (Mono, Mono Bold)
+U+0629 uni0629              3.1 (Mono, Mono Bold)
+U+062a uni062A              3.1 (Mono, Mono Bold)
+U+062b uni062B              3.1 (Mono, Mono Bold)
+U+062c uni062C              3.1 (Mono, Mono Bold)
+U+062d uni062D              3.1 (Mono, Mono Bold)
+U+062e uni062E              3.1 (Mono, Mono Bold)
+U+062f uni062F              3.1 (Mono, Mono Bold)
+U+0630 uni0630              3.1 (Mono, Mono Bold)
+U+0631 uni0631              3.1 (Mono, Mono Bold)
+U+0632 uni0632              3.1 (Mono, Mono Bold)
+U+0633 uni0633              3.1 (Mono, Mono Bold)
+U+0634 uni0634              3.1 (Mono, Mono Bold)
+U+0635 uni0635              3.1 (Mono, Mono Bold)
+U+0636 uni0636              3.1 (Mono, Mono Bold)
+U+0637 uni0637              3.1 (Mono, Mono Bold)
+U+0638 uni0638              3.1 (Mono, Mono Bold)
+U+0639 uni0639              3.1 (Mono, Mono Bold)
+U+063a uni063A              3.1 (Mono, Mono Bold)
+U+0640 uni0640              3.1 (Mono, Mono Bold)
+U+0641 uni0641              3.1 (Mono, Mono Bold)
+U+0642 uni0642              3.1 (Mono, Mono Bold)
+U+0643 uni0643              3.1 (Mono, Mono Bold)
+U+0644 uni0644              3.1 (Mono, Mono Bold)
+U+0645 uni0645              3.1 (Mono, Mono Bold)
+U+0646 uni0646              3.1 (Mono, Mono Bold)
+U+0647 uni0647              3.1 (Mono, Mono Bold)
+U+0648 uni0648              3.1 (Mono, Mono Bold)
+U+0649 uni0649              3.1 (Mono, Mono Bold)
+U+064a uni064A              3.1 (Mono, Mono Bold)
+U+064b uni064B              3.1 (Mono, Mono Bold)
+U+064c uni064C              3.1 (Mono, Mono Bold)
+U+064d uni064D              3.1 (Mono, Mono Bold)
+U+064e uni064E              3.1 (Mono, Mono Bold)
+U+064f uni064F              3.1 (Mono, Mono Bold)
+U+0650 uni0650              3.1 (Mono, Mono Bold)
+U+0651 uni0651              3.1 (Mono, Mono Bold)
+U+0652 uni0652              3.1 (Mono, Mono Bold)
+U+0653 uni0653              3.1 (Mono, Mono Bold)
+U+0654 uni0654              3.1 (Mono, Mono Bold)
+U+0655 uni0655              3.1 (Mono, Mono Bold)
+U+065a uni065A              3.1 (Mono, Mono Bold)
+U+0660 uni0660              3.1 (Mono, Mono Bold)
+U+0661 uni0661              3.1 (Mono, Mono Bold)
+U+0662 uni0662              3.1 (Mono, Mono Bold)
+U+0663 uni0663              3.1 (Mono, Mono Bold)
+U+0664 uni0664              3.1 (Mono, Mono Bold)
+U+0665 uni0665              3.1 (Mono, Mono Bold)
+U+0666 uni0666              3.1 (Mono, Mono Bold)
+U+0667 uni0667              3.1 (Mono, Mono Bold)
+U+0668 uni0668              3.1 (Mono, Mono Bold)
+U+0669 uni0669              3.1 (Mono, Mono Bold)
+U+066a uni066A              3.1 (Mono, Mono Bold)
+U+066b uni066B              3.1 (Mono, Mono Bold)
+U+066c uni066C              3.1 (Mono, Mono Bold)
+U+066d uni066D              3.1 (Mono, Mono Bold)
+U+0674 uni0674              3.1 (Mono, Mono Bold)
+U+0679 uni0679              3.1 (Mono, Mono Bold)
+U+067a uni067A              3.1 (Mono, Mono Bold)
+U+067b uni067B              3.1 (Mono, Mono Bold)
+U+067e uni067E              3.1 (Mono, Mono Bold)
+U+067f uni067F              3.1 (Mono, Mono Bold)
+U+0680 uni0680              3.1 (Mono, Mono Bold)
+U+0683 uni0683              3.1 (Mono, Mono Bold)
+U+0684 uni0684              3.1 (Mono, Mono Bold)
+U+0686 uni0686              3.1 (Mono, Mono Bold)
+U+0687 uni0687              3.1 (Mono, Mono Bold)
+U+0691 uni0691              3.1 (Mono, Mono Bold)
+U+0698 uni0698              3.1 (Mono, Mono Bold)
+U+06a4 uni06A4              3.1 (Mono, Mono Bold)
+U+06a9 uni06A9              3.1 (Mono, Mono Bold)
+U+06af uni06AF              3.1 (Mono, Mono Bold)
+U+06be uni06BE              3.1 (Mono, Mono Bold)
+U+06cc uni06CC              3.1 (Mono, Mono Bold)
+U+06f0 uni06F0              3.1 (Mono, Mono Bold)
+U+06f1 uni06F1              3.1 (Mono, Mono Bold)
+U+06f2 uni06F2              3.1 (Mono, Mono Bold)
+U+06f3 uni06F3              3.1 (Mono, Mono Bold)
+U+06f4 uni06F4              3.1 (Mono, Mono Bold)
+U+06f5 uni06F5              3.1 (Mono, Mono Bold)
+U+06f6 uni06F6              3.1 (Mono, Mono Bold)
+U+06f7 uni06F7              3.1 (Mono, Mono Bold)
+U+06f8 uni06F8              3.1 (Mono, Mono Bold)
+U+06f9 uni06F9              3.1 (Mono, Mono Bold)
+U+0e3f uni0E3F              3.1
+U+0e81 uni0E81              3.1
+U+0e82 uni0E82              3.1
+U+0e84 uni0E84              3.1
+U+0e87 uni0E87              3.1
+U+0e88 uni0E88              3.1
+U+0e8a uni0E8A              3.1
+U+0e8d uni0E8D              3.1
+U+0e94 uni0E94              3.1
+U+0e95 uni0E95              3.1
+U+0e96 uni0E96              3.1
+U+0e97 uni0E97              3.1
+U+0e99 uni0E99              3.1
+U+0e9a uni0E9A              3.1
+U+0e9b uni0E9B              3.1
+U+0e9c uni0E9C              3.1
+U+0e9d uni0E9D              3.1
+U+0e9e uni0E9E              3.1
+U+0e9f uni0E9F              3.1
+U+0ea1 uni0EA1              3.1
+U+0ea2 uni0EA2              3.1
+U+0ea3 uni0EA3              3.1
+U+0ea5 uni0EA5              3.1
+U+0ea7 uni0EA7              3.1
+U+0eaa uni0EAA              3.1
+U+0eab uni0EAB              3.1
+U+0ead uni0EAD              3.1
+U+0eae uni0EAE              3.1
+U+0eaf uni0EAF              3.1
+U+0eb0 uni0EB0              3.1
+U+0eb1 uni0EB1              3.1
+U+0eb2 uni0EB2              3.1
+U+0eb3 uni0EB3              3.1
+U+0eb4 uni0EB4              3.1
+U+0eb5 uni0EB5              3.1
+U+0eb6 uni0EB6              3.1
+U+0eb7 uni0EB7              3.1
+U+0eb8 uni0EB8              3.1
+U+0eb9 uni0EB9              3.1
+U+0ebb uni0EBB              3.1
+U+0ebc uni0EBC              3.1
+U+0ec8 uni0EC8              3.1
+U+0ec9 uni0EC9              3.1
+U+0eca uni0ECA              3.1
+U+0ecb uni0ECB              3.1
+U+0ecc uni0ECC              3.1
+U+0ecd uni0ECD              3.1
+U+10d0 uni10D0              3.1
+U+10d1 uni10D1              3.1
+U+10d2 uni10D2              3.1
+U+10d3 uni10D3              3.1
+U+10d4 uni10D4              3.1
+U+10d5 uni10D5              3.1
+U+10d6 uni10D6              3.1
+U+10d7 uni10D7              3.1
+U+10d8 uni10D8              3.1
+U+10d9 uni10D9              3.1
+U+10da uni10DA              3.1
+U+10db uni10DB              3.1
+U+10dc uni10DC              3.1
+U+10dd uni10DD              3.1
+U+10de uni10DE              3.1
+U+10df uni10DF              3.1
+U+10e0 uni10E0              3.1
+U+10e1 uni10E1              3.1
+U+10e2 uni10E2              3.1
+U+10e3 uni10E3              3.1
+U+10e4 uni10E4              3.1
+U+10e5 uni10E5              3.1
+U+10e6 uni10E6              3.1
+U+10e7 uni10E7              3.1
+U+10e8 uni10E8              3.1
+U+10e9 uni10E9              3.1
+U+10ea uni10EA              3.1
+U+10eb uni10EB              3.1
+U+10ec uni10EC              3.1
+U+10ed uni10ED              3.1
+U+10ee uni10EE              3.1
+U+10ef uni10EF              3.1
+U+10f0 uni10F0              3.1
+U+10f1 uni10F1              3.1
+U+10f2 uni10F2              3.1
+U+10f3 uni10F3              3.1
+U+10f4 uni10F4              3.1
+U+10f5 uni10F5              3.1
+U+10f6 uni10F6              3.1
+U+10f7 uni10F7              3.1
+U+10f8 uni10F8              3.1
+U+10f9 uni10F9              3.1
+U+10fa uni10FA              3.1
+U+10fb uni10FB              3.1
+U+10fc uni10FC              3.1
+U+1d02 uni1D02              3.1
+U+1d08 uni1D08              3.1
+U+1d09 uni1D09              3.1
+U+1d14 uni1D14              3.1
+U+1d16 uni1D16              3.1
+U+1d17 uni1D17              3.1
+U+1d1d uni1D1D              3.1
+U+1d1e uni1D1E              3.1
+U+1d1f uni1D1F              3.1
+U+1d2c uni1D2C              3.1
+U+1d2d uni1D2D              3.1
+U+1d2e uni1D2E              3.1
+U+1d30 uni1D30              3.1
+U+1d31 uni1D31              3.1
+U+1d32 uni1D32              3.1
+U+1d33 uni1D33              3.1
+U+1d34 uni1D34              3.1
+U+1d35 uni1D35              3.1
+U+1d36 uni1D36              3.1
+U+1d37 uni1D37              3.1
+U+1d38 uni1D38              3.1
+U+1d39 uni1D39              3.1
+U+1d3a uni1D3A              3.1
+U+1d3b uni1D3B              3.1
+U+1d3c uni1D3C              3.1
+U+1d3d uni1D3D              3.1 (Mono Italic)
+U+1d3e uni1D3E              3.1
+U+1d3f uni1D3F              3.1
+U+1d40 uni1D40              3.1
+U+1d41 uni1D41              3.1
+U+1d42 uni1D42              3.1
+U+1d43 uni1D43              3.1
+U+1d44 uni1D44              3.1
+U+1d45 uni1D45              3.1
+U+1d46 uni1D46              3.1
+U+1d47 uni1D47              3.1
+U+1d48 uni1D48              3.1
+U+1d49 uni1D49              3.1
+U+1d4a uni1D4A              3.1
+U+1d4b uni1D4B              3.1
+U+1d4c uni1D4C              3.1
+U+1d4d uni1D4D              3.1
+U+1d4e uni1D4E              3.1
+U+1d4f uni1D4F              3.1
+U+1d50 uni1D50              3.1
+U+1d51 uni1D51              3.1
+U+1d52 uni1D52              3.1
+U+1d53 uni1D53              3.1
+U+1d54 uni1D54              3.1
+U+1d55 uni1D55              3.1
+U+1d56 uni1D56              3.1
+U+1d57 uni1D57              3.1
+U+1d58 uni1D58              3.1
+U+1d59 uni1D59              3.1
+U+1d5a uni1D5A              3.1
+U+1d5b uni1D5B              3.1
+U+1d62 uni1D62              3.1
+U+1d63 uni1D63              3.1
+U+1d64 uni1D64              3.1
+U+1d65 uni1D65              3.1
+U+1d77 uni1D77              3.1
+U+1d78 uni1D78              3.1
+U+1d7b uni1D7B              3.1
+U+1d85 uni1D85              3.1
+U+1d9b uni1D9B              3.1
+U+1d9c uni1D9C              3.1
+U+1d9d uni1D9D              3.1
+U+1d9e uni1D9E              3.1
+U+1d9f uni1D9F              3.1
+U+1da0 uni1DA0              3.1
+U+1da1 uni1DA1              3.1
+U+1da2 uni1DA2              3.1
+U+1da3 uni1DA3              3.1
+U+1da4 uni1DA4              3.1
+U+1da5 uni1DA5              3.1
+U+1da6 uni1DA6              3.1
+U+1da7 uni1DA7              3.1
+U+1da8 uni1DA8              3.1
+U+1da9 uni1DA9              3.1
+U+1daa uni1DAA              3.1
+U+1dab uni1DAB              3.1
+U+1dac uni1DAC              3.1
+U+1dad uni1DAD              3.1
+U+1dae uni1DAE              3.1
+U+1daf uni1DAF              3.1
+U+1db0 uni1DB0              3.1
+U+1db1 uni1DB1              3.1
+U+1db2 uni1DB2              3.1
+U+1db3 uni1DB3              3.1
+U+1db4 uni1DB4              3.1
+U+1db5 uni1DB5              3.1
+U+1db6 uni1DB6              3.1
+U+1db7 uni1DB7              3.1
+U+1db9 uni1DB9              3.1
+U+1dba uni1DBA              3.1
+U+1dbb uni1DBB              3.1
+U+1dbc uni1DBC              3.1
+U+1dbd uni1DBD              3.1
+U+1dbe uni1DBE              3.1
+U+1dbf uni1DBF              3.1
+U+1e00 uni1E00              3.1
+U+1e01 uni1E01              3.1
+U+1e02 uni1E02              3.1
+U+1e03 uni1E03              3.1
+U+1e04 uni1E04              3.1
+U+1e05 uni1E05              3.1
+U+1e06 uni1E06              3.1
+U+1e07 uni1E07              3.1
+U+1e08 uni1E08              3.1
+U+1e09 uni1E09              3.1
+U+1e0a uni1E0A              3.1
+U+1e0b uni1E0B              3.1
+U+1e0c uni1E0C              3.1
+U+1e0d uni1E0D              3.1
+U+1e0e uni1E0E              3.1
+U+1e0f uni1E0F              3.1
+U+1e10 uni1E10              3.1
+U+1e11 uni1E11              3.1
+U+1e12 uni1E12              3.1
+U+1e13 uni1E13              3.1
+U+1e18 uni1E18              3.1
+U+1e19 uni1E19              3.1
+U+1e1a uni1E1A              3.1
+U+1e1b uni1E1B              3.1
+U+1e1c uni1E1C              3.1
+U+1e1d uni1E1D              3.1
+U+1e1e uni1E1E              3.1
+U+1e1f uni1E1F              3.1
+U+1e20 uni1E20              3.1
+U+1e21 uni1E21              3.1
+U+1e22 uni1E22              3.1
+U+1e23 uni1E23              3.1
+U+1e24 uni1E24              3.1
+U+1e25 uni1E25              3.1
+U+1e26 uni1E26              3.1
+U+1e27 uni1E27              3.1
+U+1e28 uni1E28              3.1
+U+1e29 uni1E29              3.1
+U+1e2a uni1E2A              3.1
+U+1e2b uni1E2B              3.1
+U+1e2c uni1E2C              3.1
+U+1e2d uni1E2D              3.1
+U+1e30 uni1E30              3.1
+U+1e31 uni1E31              3.1
+U+1e32 uni1E32              3.1
+U+1e33 uni1E33              3.1
+U+1e34 uni1E34              3.1
+U+1e35 uni1E35              3.1
+U+1e36 uni1E36              3.1
+U+1e37 uni1E37              3.1
+U+1e38 uni1E38              3.1
+U+1e39 uni1E39              3.1
+U+1e3a uni1E3A              3.1
+U+1e3b uni1E3B              3.1
+U+1e3c uni1E3C              3.1
+U+1e3d uni1E3D              3.1
+U+1e3e uni1E3E              3.1
+U+1e3f uni1E3F              3.1
+U+1e40 uni1E40              3.1
+U+1e41 uni1E41              3.1
+U+1e42 uni1E42              3.1
+U+1e43 uni1E43              3.1
+U+1e44 uni1E44              3.1
+U+1e45 uni1E45              3.1
+U+1e46 uni1E46              3.1
+U+1e47 uni1E47              3.1
+U+1e48 uni1E48              3.1
+U+1e49 uni1E49              3.1
+U+1e4a uni1E4A              3.1
+U+1e4b uni1E4B              3.1
+U+1e4c uni1E4C              3.1
+U+1e4d uni1E4D              3.1
+U+1e54 uni1E54              3.1
+U+1e55 uni1E55              3.1
+U+1e56 uni1E56              3.1
+U+1e57 uni1E57              3.1
+U+1e58 uni1E58              3.1
+U+1e59 uni1E59              3.1
+U+1e5a uni1E5A              3.1
+U+1e5b uni1E5B              3.1
+U+1e5c uni1E5C              3.1
+U+1e5d uni1E5D              3.1
+U+1e5e uni1E5E              3.1
+U+1e5f uni1E5F              3.1
+U+1e60 uni1E60              3.1
+U+1e61 uni1E61              3.1
+U+1e62 uni1E62              3.1
+U+1e63 uni1E63              3.1
+U+1e68 uni1E68              3.1
+U+1e69 uni1E69              3.1
+U+1e6a uni1E6A              3.1
+U+1e6b uni1E6B              3.1
+U+1e6c uni1E6C              3.1
+U+1e6d uni1E6D              3.1
+U+1e6e uni1E6E              3.1
+U+1e6f uni1E6F              3.1
+U+1e70 uni1E70              3.1
+U+1e71 uni1E71              3.1
+U+1e72 uni1E72              3.1
+U+1e73 uni1E73              3.1
+U+1e74 uni1E74              3.1
+U+1e75 uni1E75              3.1
+U+1e76 uni1E76              3.1
+U+1e77 uni1E77              3.1
+U+1e78 uni1E78              3.1
+U+1e79 uni1E79              3.1
+U+1e7c uni1E7C              3.1
+U+1e7d uni1E7D              3.1
+U+1e7e uni1E7E              3.1
+U+1e7f uni1E7F              3.1
+U+1e80 Wgrave               3.1
+U+1e81 wgrave               3.1
+U+1e82 Wacute               3.1
+U+1e83 wacute               3.1
+U+1e84 Wdieresis            3.1
+U+1e85 wdieresis            3.1
+U+1e86 uni1E86              3.1
+U+1e87 uni1E87              3.1
+U+1e88 uni1E88              3.1
+U+1e89 uni1E89              3.1
+U+1e8a uni1E8A              3.1
+U+1e8b uni1E8B              3.1
+U+1e8c uni1E8C              3.1
+U+1e8d uni1E8D              3.1
+U+1e8e uni1E8E              3.1
+U+1e8f uni1E8F              3.1
+U+1e90 uni1E90              3.1
+U+1e91 uni1E91              3.1
+U+1e92 uni1E92              3.1
+U+1e93 uni1E93              3.1
+U+1e94 uni1E94              3.1
+U+1e95 uni1E95              3.1
+U+1e96 uni1E96              3.1
+U+1e97 uni1E97              3.1
+U+1e98 uni1E98              3.1
+U+1e99 uni1E99              3.1
+U+1e9b uni1E9B              3.1
+U+1e9f uni1E9F              3.1
+U+1ea0 uni1EA0              3.1
+U+1ea1 uni1EA1              3.1
+U+1eac uni1EAC              3.1
+U+1ead uni1EAD              3.1
+U+1eb0 uni1EB0              3.1
+U+1eb1 uni1EB1              3.1
+U+1eb6 uni1EB6              3.1
+U+1eb7 uni1EB7              3.1
+U+1eb8 uni1EB8              3.1
+U+1eb9 uni1EB9              3.1
+U+1ebc uni1EBC              3.1
+U+1ebd uni1EBD              3.1
+U+1ec6 uni1EC6              3.1
+U+1ec7 uni1EC7              3.1
+U+1eca uni1ECA              3.1
+U+1ecb uni1ECB              3.1
+U+1ecc uni1ECC              3.1
+U+1ecd uni1ECD              3.1
+U+1ed8 uni1ED8              3.1
+U+1ed9 uni1ED9              3.1
+U+1eda uni1EDA              3.1
+U+1edb uni1EDB              3.1
+U+1edc uni1EDC              3.1
+U+1edd uni1EDD              3.1
+U+1ee0 uni1EE0              3.1
+U+1ee1 uni1EE1              3.1
+U+1ee2 uni1EE2              3.1
+U+1ee3 uni1EE3              3.1
+U+1ee4 uni1EE4              3.1
+U+1ee5 uni1EE5              3.1
+U+1ee8 uni1EE8              3.1
+U+1ee9 uni1EE9              3.1
+U+1eea uni1EEA              3.1
+U+1eeb uni1EEB              3.1
+U+1eee uni1EEE              3.1
+U+1eef uni1EEF              3.1
+U+1ef0 uni1EF0              3.1
+U+1ef1 uni1EF1              3.1
+U+1ef2 Ygrave               3.1
+U+1ef3 ygrave               3.1
+U+1ef4 uni1EF4              3.1
+U+1ef5 uni1EF5              3.1
+U+1ef8 uni1EF8              3.1
+U+1ef9 uni1EF9              3.1
+U+1f00 uni1F00              3.1
+U+1f01 uni1F01              3.1
+U+1f02 uni1F02              3.1
+U+1f03 uni1F03              3.1
+U+1f04 uni1F04              3.1
+U+1f05 uni1F05              3.1
+U+1f06 uni1F06              3.1
+U+1f07 uni1F07              3.1
+U+1f08 uni1F08              3.1
+U+1f09 uni1F09              3.1
+U+1f0a uni1F0A              3.1
+U+1f0b uni1F0B              3.1
+U+1f0c uni1F0C              3.1
+U+1f0d uni1F0D              3.1
+U+1f0e uni1F0E              3.1
+U+1f0f uni1F0F              3.1
+U+1f10 uni1F10              3.1
+U+1f11 uni1F11              3.1
+U+1f12 uni1F12              3.1
+U+1f13 uni1F13              3.1
+U+1f14 uni1F14              3.1
+U+1f15 uni1F15              3.1
+U+1f18 uni1F18              3.1
+U+1f19 uni1F19              3.1
+U+1f1a uni1F1A              3.1
+U+1f1b uni1F1B              3.1
+U+1f1c uni1F1C              3.1
+U+1f1d uni1F1D              3.1
+U+1f20 uni1F20              3.1
+U+1f21 uni1F21              3.1
+U+1f22 uni1F22              3.1
+U+1f23 uni1F23              3.1
+U+1f24 uni1F24              3.1
+U+1f25 uni1F25              3.1
+U+1f26 uni1F26              3.1
+U+1f27 uni1F27              3.1
+U+1f28 uni1F28              3.1
+U+1f29 uni1F29              3.1
+U+1f2a uni1F2A              3.1
+U+1f2b uni1F2B              3.1
+U+1f2c uni1F2C              3.1
+U+1f2d uni1F2D              3.1
+U+1f2e uni1F2E              3.1
+U+1f2f uni1F2F              3.1
+U+1f30 uni1F30              3.1
+U+1f31 uni1F31              3.1
+U+1f32 uni1F32              3.1
+U+1f33 uni1F33              3.1
+U+1f34 uni1F34              3.1
+U+1f35 uni1F35              3.1
+U+1f36 uni1F36              3.1
+U+1f37 uni1F37              3.1
+U+1f38 uni1F38              3.1
+U+1f39 uni1F39              3.1
+U+1f3a uni1F3A              3.1
+U+1f3b uni1F3B              3.1
+U+1f3c uni1F3C              3.1
+U+1f3d uni1F3D              3.1
+U+1f3e uni1F3E              3.1
+U+1f3f uni1F3F              3.1
+U+1f40 uni1F40              3.1
+U+1f41 uni1F41              3.1
+U+1f42 uni1F42              3.1
+U+1f43 uni1F43              3.1
+U+1f44 uni1F44              3.1
+U+1f45 uni1F45              3.1
+U+1f48 uni1F48              3.1
+U+1f49 uni1F49              3.1
+U+1f4a uni1F4A              3.1
+U+1f4b uni1F4B              3.1
+U+1f4c uni1F4C              3.1
+U+1f4d uni1F4D              3.1
+U+1f50 uni1F50              3.1
+U+1f51 uni1F51              3.1
+U+1f52 uni1F52              3.1
+U+1f53 uni1F53              3.1
+U+1f54 uni1F54              3.1
+U+1f55 uni1F55              3.1
+U+1f56 uni1F56              3.1
+U+1f57 uni1F57              3.1
+U+1f59 uni1F59              3.1
+U+1f5b uni1F5B              3.1
+U+1f5d uni1F5D              3.1
+U+1f5f uni1F5F              3.1
+U+1f60 uni1F60              3.1
+U+1f61 uni1F61              3.1
+U+1f62 uni1F62              3.1
+U+1f63 uni1F63              3.1
+U+1f64 uni1F64              3.1
+U+1f65 uni1F65              3.1
+U+1f66 uni1F66              3.1
+U+1f67 uni1F67              3.1
+U+1f68 uni1F68              3.1
+U+1f69 uni1F69              3.1
+U+1f6a uni1F6A              3.1
+U+1f6b uni1F6B              3.1
+U+1f6c uni1F6C              3.1
+U+1f6d uni1F6D              3.1
+U+1f6e uni1F6E              3.1
+U+1f6f uni1F6F              3.1
+U+1f70 uni1F70              3.1
+U+1f71 uni1F71              3.1
+U+1f72 uni1F72              3.1
+U+1f73 uni1F73              3.1
+U+1f74 uni1F74              3.1
+U+1f75 uni1F75              3.1
+U+1f76 uni1F76              3.1
+U+1f77 uni1F77              3.1
+U+1f78 uni1F78              3.1
+U+1f79 uni1F79              3.1
+U+1f7a uni1F7A              3.1
+U+1f7b uni1F7B              3.1
+U+1f7c uni1F7C              3.1
+U+1f7d uni1F7D              3.1
+U+1f80 uni1F80              3.1
+U+1f81 uni1F81              3.1
+U+1f82 uni1F82              3.1
+U+1f83 uni1F83              3.1
+U+1f84 uni1F84              3.1
+U+1f85 uni1F85              3.1
+U+1f86 uni1F86              3.1
+U+1f87 uni1F87              3.1
+U+1f88 uni1F88              3.1
+U+1f89 uni1F89              3.1
+U+1f8a uni1F8A              3.1
+U+1f8b uni1F8B              3.1
+U+1f8c uni1F8C              3.1
+U+1f8d uni1F8D              3.1
+U+1f8e uni1F8E              3.1
+U+1f8f uni1F8F              3.1
+U+1f90 uni1F90              3.1
+U+1f91 uni1F91              3.1
+U+1f92 uni1F92              3.1
+U+1f93 uni1F93              3.1
+U+1f94 uni1F94              3.1
+U+1f95 uni1F95              3.1
+U+1f96 uni1F96              3.1
+U+1f97 uni1F97              3.1
+U+1f98 uni1F98              3.1
+U+1f99 uni1F99              3.1
+U+1f9a uni1F9A              3.1
+U+1f9b uni1F9B              3.1
+U+1f9c uni1F9C              3.1
+U+1f9d uni1F9D              3.1
+U+1f9e uni1F9E              3.1
+U+1f9f uni1F9F              3.1
+U+1fa0 uni1FA0              3.1
+U+1fa1 uni1FA1              3.1
+U+1fa2 uni1FA2              3.1
+U+1fa3 uni1FA3              3.1
+U+1fa4 uni1FA4              3.1
+U+1fa5 uni1FA5              3.1
+U+1fa6 uni1FA6              3.1
+U+1fa7 uni1FA7              3.1
+U+1fa8 uni1FA8              3.1
+U+1fa9 uni1FA9              3.1
+U+1faa uni1FAA              3.1
+U+1fab uni1FAB              3.1
+U+1fac uni1FAC              3.1
+U+1fad uni1FAD              3.1
+U+1fae uni1FAE              3.1
+U+1faf uni1FAF              3.1
+U+1fb0 uni1FB0              3.1
+U+1fb1 uni1FB1              3.1
+U+1fb2 uni1FB2              3.1
+U+1fb3 uni1FB3              3.1
+U+1fb4 uni1FB4              3.1
+U+1fb6 uni1FB6              3.1
+U+1fb7 uni1FB7              3.1
+U+1fb8 uni1FB8              3.1
+U+1fb9 uni1FB9              3.1
+U+1fba uni1FBA              3.1
+U+1fbb uni1FBB              3.1
+U+1fbc uni1FBC              3.1
+U+1fbd uni1FBD              3.1
+U+1fbe uni1FBE              3.1
+U+1fbf uni1FBF              3.1
+U+1fc0 uni1FC0              3.1
+U+1fc1 uni1FC1              3.1
+U+1fc2 uni1FC2              3.1
+U+1fc3 uni1FC3              3.1
+U+1fc4 uni1FC4              3.1
+U+1fc6 uni1FC6              3.1
+U+1fc7 uni1FC7              3.1
+U+1fc8 uni1FC8              3.1
+U+1fc9 uni1FC9              3.1
+U+1fca uni1FCA              3.1
+U+1fcb uni1FCB              3.1
+U+1fcc uni1FCC              3.1
+U+1fcd uni1FCD              3.1
+U+1fce uni1FCE              3.1
+U+1fcf uni1FCF              3.1
+U+1fd0 uni1FD0              3.1
+U+1fd1 uni1FD1              3.1
+U+1fd2 uni1FD2              3.1
+U+1fd3 uni1FD3              3.1
+U+1fd6 uni1FD6              3.1
+U+1fd7 uni1FD7              3.1
+U+1fd8 uni1FD8              3.1
+U+1fd9 uni1FD9              3.1
+U+1fda uni1FDA              3.1
+U+1fdb uni1FDB              3.1
+U+1fdd uni1FDD              3.1
+U+1fde uni1FDE              3.1
+U+1fdf uni1FDF              3.1
+U+1fe0 uni1FE0              3.1
+U+1fe1 uni1FE1              3.1
+U+1fe2 uni1FE2              3.1
+U+1fe3 uni1FE3              3.1
+U+1fe4 uni1FE4              3.1
+U+1fe5 uni1FE5              3.1
+U+1fe6 uni1FE6              3.1
+U+1fe7 uni1FE7              3.1
+U+1fe8 uni1FE8              3.1
+U+1fe9 uni1FE9              3.1
+U+1fea uni1FEA              3.1
+U+1feb uni1FEB              3.1
+U+1fec uni1FEC              3.1
+U+1fed uni1FED              3.1
+U+1fee uni1FEE              3.1
+U+1fef uni1FEF              3.1
+U+1ff2 uni1FF2              3.1
+U+1ff3 uni1FF3              3.1
+U+1ff4 uni1FF4              3.1
+U+1ff6 uni1FF6              3.1
+U+1ff7 uni1FF7              3.1
+U+1ff8 uni1FF8              3.1
+U+1ff9 uni1FF9              3.1
+U+1ffa uni1FFA              3.1
+U+1ffb uni1FFB              3.1
+U+1ffc uni1FFC              3.1
+U+1ffd uni1FFD              3.1
+U+1ffe uni1FFE              3.1
+U+2000 uni2000              3.1
+U+2001 uni2001              3.1
+U+2002 uni2002              3.1
+U+2003 uni2003              3.1
+U+2004 uni2004              3.1
+U+2005 uni2005              3.1
+U+2006 uni2006              3.1
+U+2007 uni2007              3.1
+U+2008 uni2008              3.1
+U+2009 uni2009              3.1
+U+200a uni200A              3.1
+U+2010 uni2010              3.1
+U+2011 uni2011              3.1
+U+2012 figuredash           3.1
+U+2013 endash               3.1
+U+2014 emdash               3.1
+U+2015 uni2015              3.1
+U+2016 uni2016              3.1
+U+2017 underscoredbl        3.1
+U+2018 quoteleft            3.1
+U+2019 quoteright           3.1
+U+201a quotesinglbase       3.1
+U+201b quotereversed        3.1
+U+201c quotedblleft         3.1
+U+201d quotedblright        3.1
+U+201e quotedblbase         3.1
+U+201f uni201F              3.1
+U+2020 dagger               3.1
+U+2021 daggerdbl            3.1
+U+2022 bullet               3.1
+U+2023 uni2023              3.1
+U+2026 ellipsis             3.1
+U+202f uni202F              3.1
+U+2030 perthousand          3.1
+U+2031 uni2031              3.1
+U+2032 minute               3.1
+U+2033 second               3.1
+U+2034 uni2034              3.1
+U+2035 uni2035              3.1
+U+2036 uni2036              3.1
+U+2037 uni2037              3.1
+U+2039 guilsinglleft        3.1
+U+203a guilsinglright       3.1
+U+203c exclamdbl            3.1
+U+203d uni203D              3.1
+U+203e uni203E              3.1
+U+203f uni203F              3.1
+U+2045 uni2045              3.1
+U+2046 uni2046              3.1
+U+2047 uni2047              3.1
+U+2048 uni2048              3.1
+U+2049 uni2049              3.1
+U+204b uni204B              3.1
+U+205f uni205F              3.1
+U+2070 uni2070              3.1
+U+2071 uni2071              3.1
+U+2074 uni2074              3.1
+U+2075 uni2075              3.1
+U+2076 uni2076              3.1
+U+2077 uni2077              3.1
+U+2078 uni2078              3.1
+U+2079 uni2079              3.1
+U+207a uni207A              3.1
+U+207b uni207B              3.1
+U+207c uni207C              3.1
+U+207d uni207D              3.1
+U+207e uni207E              3.1
+U+207f uni207F              3.1
+U+2080 uni2080              3.1
+U+2081 uni2081              3.1
+U+2082 uni2082              3.1
+U+2083 uni2083              3.1
+U+2084 uni2084              3.1
+U+2085 uni2085              3.1
+U+2086 uni2086              3.1
+U+2087 uni2087              3.1
+U+2088 uni2088              3.1
+U+2089 uni2089              3.1
+U+208a uni208A              3.1
+U+208b uni208B              3.1
+U+208c uni208C              3.1
+U+208d uni208D              3.1
+U+208e uni208E              3.1
+U+2090 uni2090              3.1
+U+2091 uni2091              3.1
+U+2092 uni2092              3.1
+U+2093 uni2093              3.1
+U+2094 uni2094              3.1
+U+2095 uni2095              3.1
+U+2096 uni2096              3.1
+U+2097 uni2097              3.1
+U+2098 uni2098              3.1
+U+2099 uni2099              3.1
+U+209a uni209A              3.1
+U+209b uni209B              3.1
+U+209c uni209C              3.1
+U+20a0 uni20A0              3.1
+U+20a1 colonmonetary        3.1
+U+20a2 uni20A2              3.1
+U+20a3 franc                3.1
+U+20a4 lira                 3.1
+U+20a5 uni20A5              3.1
+U+20a6 uni20A6              3.1
+U+20a7 peseta               3.1
+U+20a8 uni20A8              3.1
+U+20a9 uni20A9              3.1
+U+20aa uni20AA              3.1
+U+20ab dong                 3.1
+U+20ac Euro                 3.1
+U+20ad uni20AD              3.1
+U+20ae uni20AE              3.1
+U+20af uni20AF              3.1
+U+20b0 uni20B0              3.1
+U+20b1 uni20B1              3.1
+U+20b2 uni20B2              3.1
+U+20b3 uni20B3              3.1
+U+20b4 uni20B4              3.1
+U+20b5 uni20B5              3.1
+U+20b8 uni20B8              3.1
+U+20b9 uni20B9              3.1
+U+20ba uni20BA              3.1
+U+20bd uni20BD              3.1
+U+2102 uni2102              3.1
+U+2105 uni2105              3.1
+U+210d uni210D              3.1
+U+210e uni210E              3.1
+U+210f uni210F              3.1
+U+2115 uni2115              3.1
+U+2116 uni2116              3.1
+U+2117 uni2117              3.1
+U+2119 uni2119              3.1
+U+211a uni211A              3.1
+U+211d uni211D              3.1
+U+2122 trademark            3.1
+U+2124 uni2124              3.1
+U+2126 uni2126              3.1
+U+212a uni212A              3.1
+U+212b uni212B              3.1
+U+212e estimated            3.1
+U+2148 uni2148              3.1
+U+2150 uni2150              3.1
+U+2151 uni2151              3.1
+U+2153 onethird             3.1
+U+2154 twothirds            3.1
+U+2155 uni2155              3.1
+U+2156 uni2156              3.1
+U+2157 uni2157              3.1
+U+2158 uni2158              3.1
+U+2159 uni2159              3.1
+U+215a uni215A              3.1
+U+215b oneeighth            3.1
+U+215c threeeighths         3.1
+U+215d fiveeighths          3.1
+U+215e seveneighths         3.1
+U+215f uni215F              3.1
+U+2189 uni2189              3.1
+U+2190 arrowleft            3.1
+U+2191 arrowup              3.1
+U+2192 arrowright           3.1
+U+2193 arrowdown            3.1
+U+2194 arrowboth            3.1
+U+2195 arrowupdn            3.1
+U+2196 uni2196              3.1
+U+2197 uni2197              3.1
+U+2198 uni2198              3.1
+U+2199 uni2199              3.1
+U+219a uni219A              3.1
+U+219b uni219B              3.1
+U+219c uni219C              3.1
+U+219d uni219D              3.1
+U+219e uni219E              3.1
+U+219f uni219F              3.1
+U+21a0 uni21A0              3.1
+U+21a1 uni21A1              3.1
+U+21a2 uni21A2              3.1
+U+21a3 uni21A3              3.1
+U+21a4 uni21A4              3.1
+U+21a5 uni21A5              3.1
+U+21a6 uni21A6              3.1
+U+21a7 uni21A7              3.1
+U+21a8 arrowupdnbse         3.1
+U+21a9 uni21A9              3.1
+U+21aa uni21AA              3.1
+U+21ab uni21AB              3.1
+U+21ac uni21AC              3.1
+U+21ad uni21AD              3.1
+U+21ae uni21AE              3.1
+U+21af uni21AF              3.1
+U+21b0 uni21B0              3.1
+U+21b1 uni21B1              3.1
+U+21b2 uni21B2              3.1
+U+21b3 uni21B3              3.1
+U+21b4 uni21B4              3.1
+U+21b5 carriagereturn       3.1
+U+21b6 uni21B6              3.1
+U+21b7 uni21B7              3.1
+U+21b8 uni21B8              3.1
+U+21b9 uni21B9              3.1
+U+21ba uni21BA              3.1
+U+21bb uni21BB              3.1
+U+21bc uni21BC              3.1
+U+21bd uni21BD              3.1
+U+21be uni21BE              3.1
+U+21bf uni21BF              3.1
+U+21c0 uni21C0              3.1
+U+21c1 uni21C1              3.1
+U+21c2 uni21C2              3.1
+U+21c3 uni21C3              3.1
+U+21c4 uni21C4              3.1
+U+21c5 uni21C5              3.1
+U+21c6 uni21C6              3.1
+U+21c7 uni21C7              3.1
+U+21c8 uni21C8              3.1
+U+21c9 uni21C9              3.1
+U+21ca uni21CA              3.1
+U+21cb uni21CB              3.1
+U+21cc uni21CC              3.1
+U+21cd uni21CD              3.1
+U+21ce uni21CE              3.1
+U+21cf uni21CF              3.1
+U+21d0 arrowdblleft         3.1
+U+21d1 arrowdblup           3.1
+U+21d2 arrowdblright        3.1
+U+21d3 arrowdbldown         3.1
+U+21d4 arrowdblboth         3.1
+U+21d5 uni21D5              3.1
+U+21d6 uni21D6              3.1
+U+21d7 uni21D7              3.1
+U+21d8 uni21D8              3.1
+U+21d9 uni21D9              3.1
+U+21da uni21DA              3.1
+U+21db uni21DB              3.1
+U+21dc uni21DC              3.1
+U+21dd uni21DD              3.1
+U+21de uni21DE              3.1
+U+21df uni21DF              3.1
+U+21e0 uni21E0              3.1
+U+21e1 uni21E1              3.1
+U+21e2 uni21E2              3.1
+U+21e3 uni21E3              3.1
+U+21e4 uni21E4              3.1
+U+21e5 uni21E5              3.1
+U+21e6 uni21E6              3.1
+U+21e7 uni21E7              3.1
+U+21e8 uni21E8              3.1
+U+21e9 uni21E9              3.1
+U+21ea uni21EA              3.1
+U+21eb uni21EB              3.1
+U+21ec uni21EC              3.1
+U+21ed uni21ED              3.1
+U+21ee uni21EE              3.1
+U+21ef uni21EF              3.1
+U+21f0 uni21F0              3.1
+U+21f1 uni21F1              3.1
+U+21f2 uni21F2              3.1
+U+21f3 uni21F3              3.1
+U+21f4 uni21F4              3.1
+U+21f5 uni21F5              3.1
+U+21f6 uni21F6              3.1
+U+21f7 uni21F7              3.1
+U+21f8 uni21F8              3.1
+U+21f9 uni21F9              3.1
+U+21fa uni21FA              3.1
+U+21fb uni21FB              3.1
+U+21fc uni21FC              3.1
+U+21fd uni21FD              3.1
+U+21fe uni21FE              3.1
+U+21ff uni21FF              3.1
+U+2200 universal            3.1
+U+2201 uni2201              3.1
+U+2202 partialdiff          3.1
+U+2203 existential          3.1
+U+2204 uni2204              3.1
+U+2205 emptyset             3.1
+U+2206 Delta                3.1
+U+2207 gradient             3.1
+U+2208 element              3.1
+U+2209 notelement           3.1
+U+220a uni220A              3.1
+U+220b suchthat             3.1
+U+220c uni220C              3.1
+U+220d uni220D              3.1
+U+220e uni220E              3.1
+U+220f product              3.1
+U+2210 uni2210              3.1
+U+2211 summation            3.1
+U+2212 minus                3.1
+U+2213 uni2213              3.1
+U+2215 uni2215              3.1
+U+2217 asteriskmath         3.1
+U+2218 uni2218              3.1
+U+2219 uni2219              3.1
+U+221a radical              3.1
+U+221b uni221B              3.1
+U+221c uni221C              3.1
+U+221d proportional         3.1
+U+221e infinity             3.1
+U+221f orthogonal           3.1
+U+2220 angle                3.1
+U+2223 uni2223              3.1
+U+2227 logicaland           3.1
+U+2228 logicalor            3.1
+U+2229 intersection         3.1
+U+222a union                3.1
+U+222b integral             3.1
+U+222c uni222C              3.1
+U+222d uni222D              3.1
+U+2234 therefore            3.1
+U+2235 uni2235              3.1
+U+2236 uni2236              3.1
+U+2237 uni2237              3.1
+U+2238 uni2238              3.1
+U+2239 uni2239              3.1
+U+223a uni223A              3.1
+U+223b uni223B              3.1
+U+223c similar              3.1
+U+223d uni223D              3.1
+U+2241 uni2241              3.1
+U+2242 uni2242              3.1
+U+2243 uni2243              3.1
+U+2244 uni2244              3.1
+U+2245 congruent            3.1
+U+2246 uni2246              3.1
+U+2247 uni2247              3.1
+U+2248 approxequal          3.1
+U+2249 uni2249              3.1
+U+224a uni224A              3.1
+U+224b uni224B              3.1
+U+224c uni224C              3.1
+U+224d uni224D              3.1
+U+224e uni224E              3.1
+U+224f uni224F              3.1
+U+2250 uni2250              3.1
+U+2251 uni2251              3.1
+U+2252 uni2252              3.1
+U+2253 uni2253              3.1
+U+2254 uni2254              3.1
+U+2255 uni2255              3.1
+U+2256 uni2256              3.1
+U+2257 uni2257              3.1
+U+2258 uni2258              3.1
+U+2259 uni2259              3.1
+U+225a uni225A              3.1
+U+225b uni225B              3.1
+U+225c uni225C              3.1
+U+225d uni225D              3.1
+U+225e uni225E              3.1
+U+225f uni225F              3.1
+U+2260 notequal             3.1
+U+2261 equivalence          3.1
+U+2262 uni2262              3.1
+U+2263 uni2263              3.1
+U+2264 lessequal            3.1
+U+2265 greaterequal         3.1
+U+2266 uni2266              3.1
+U+2267 uni2267              3.1
+U+2268 uni2268              3.1
+U+2269 uni2269              3.1
+U+226d uni226D              3.1
+U+226e uni226E              3.1
+U+226f uni226F              3.1
+U+2270 uni2270              3.1
+U+2271 uni2271              3.1
+U+2272 uni2272              3.1
+U+2273 uni2273              3.1
+U+2274 uni2274              3.1
+U+2275 uni2275              3.1
+U+2276 uni2276              3.1
+U+2277 uni2277              3.1
+U+2278 uni2278              3.1
+U+2279 uni2279              3.1
+U+227a uni227A              3.1
+U+227b uni227B              3.1
+U+227c uni227C              3.1
+U+227d uni227D              3.1
+U+227e uni227E              3.1
+U+227f uni227F              3.1
+U+2280 uni2280              3.1
+U+2281 uni2281              3.1
+U+2282 propersubset         3.1
+U+2283 propersuperset       3.1
+U+2284 notsubset            3.1
+U+2285 uni2285              3.1
+U+2286 reflexsubset         3.1
+U+2287 reflexsuperset       3.1
+U+2288 uni2288              3.1
+U+2289 uni2289              3.1
+U+228a uni228A              3.1
+U+228b uni228B              3.1
+U+228d uni228D              3.1
+U+228e uni228E              3.1
+U+228f uni228F              3.1
+U+2290 uni2290              3.1
+U+2291 uni2291              3.1
+U+2292 uni2292              3.1
+U+2293 uni2293              3.1
+U+2294 uni2294              3.1
+U+2295 circleplus           3.1
+U+2296 uni2296              3.1
+U+2297 circlemultiply       3.1
+U+2298 uni2298              3.1
+U+2299 uni2299              3.1
+U+229a uni229A              3.1
+U+229b uni229B              3.1
+U+229c uni229C              3.1
+U+229d uni229D              3.1
+U+229e uni229E              3.1
+U+229f uni229F              3.1
+U+22a0 uni22A0              3.1
+U+22a1 uni22A1              3.1
+U+22a2 uni22A2              3.1
+U+22a3 uni22A3              3.1
+U+22a4 uni22A4              3.1
+U+22a5 perpendicular        3.1
+U+22b2 uni22B2              3.1
+U+22b3 uni22B3              3.1
+U+22b4 uni22B4              3.1
+U+22b5 uni22B5              3.1
+U+22b8 uni22B8              3.1
+U+22c2 uni22C2              3.1
+U+22c3 uni22C3              3.1
+U+22c4 uni22C4              3.1
+U+22c5 dotmath              3.1
+U+22c6 uni22C6              3.1
+U+22cd uni22CD              3.1
+U+22ce uni22CE              3.1
+U+22cf uni22CF              3.1
+U+22d0 uni22D0              3.1
+U+22d1 uni22D1              3.1
+U+22da uni22DA              3.1
+U+22db uni22DB              3.1
+U+22dc uni22DC              3.1
+U+22dd uni22DD              3.1
+U+22de uni22DE              3.1
+U+22df uni22DF              3.1
+U+22e0 uni22E0              3.1
+U+22e1 uni22E1              3.1
+U+22e2 uni22E2              3.1
+U+22e3 uni22E3              3.1
+U+22e4 uni22E4              3.1
+U+22e5 uni22E5              3.1
+U+22e6 uni22E6              3.1
+U+22e7 uni22E7              3.1
+U+22e8 uni22E8              3.1
+U+22e9 uni22E9              3.1
+U+22ef uni22EF              3.1
+U+2300 uni2300              3.1
+U+2301 uni2301              3.1
+U+2302 house                3.1
+U+2303 uni2303              3.1
+U+2304 uni2304              3.1
+U+2305 uni2305              3.1
+U+2306 uni2306              3.1
+U+2308 uni2308              3.1
+U+2309 uni2309              3.1
+U+230a uni230A              3.1
+U+230b uni230B              3.1
+U+230c uni230C              3.1
+U+230d uni230D              3.1
+U+230e uni230E              3.1
+U+230f uni230F              3.1
+U+2310 revlogicalnot        3.1
+U+2311 uni2311              3.1
+U+2312 uni2312              3.1
+U+2313 uni2313              3.1
+U+2314 uni2314              3.1
+U+2315 uni2315              3.1
+U+2318 uni2318              3.1
+U+2319 uni2319              3.1
+U+231c uni231C              3.1
+U+231d uni231D              3.1
+U+231e uni231E              3.1
+U+231f uni231F              3.1
+U+2320 integraltp           3.1
+U+2321 integralbt           3.1
+U+2325 uni2325              3.1
+U+2326 uni2326              3.1
+U+2327 uni2327              3.1
+U+2328 uni2328              3.1
+U+232b uni232B              3.1
+U+2335 uni2335              3.1
+U+2336 uni2336              3.1
+U+2337 uni2337              3.1
+U+2338 uni2338              3.1
+U+2339 uni2339              3.1
+U+233a uni233A              3.1
+U+233b uni233B              3.1
+U+233c uni233C              3.1
+U+233d uni233D              3.1
+U+233e uni233E              3.1
+U+233f uni233F              3.1
+U+2340 uni2340              3.1
+U+2341 uni2341              3.1
+U+2342 uni2342              3.1
+U+2343 uni2343              3.1
+U+2344 uni2344              3.1
+U+2345 uni2345              3.1
+U+2346 uni2346              3.1
+U+2347 uni2347              3.1
+U+2348 uni2348              3.1
+U+2349 uni2349              3.1
+U+234a uni234A              3.1
+U+234b uni234B              3.1
+U+234c uni234C              3.1
+U+234d uni234D              3.1
+U+234e uni234E              3.1
+U+234f uni234F              3.1
+U+2350 uni2350              3.1
+U+2351 uni2351              3.1
+U+2352 uni2352              3.1
+U+2353 uni2353              3.1
+U+2354 uni2354              3.1
+U+2355 uni2355              3.1
+U+2356 uni2356              3.1
+U+2357 uni2357              3.1
+U+2358 uni2358              3.1
+U+2359 uni2359              3.1
+U+235a uni235A              3.1
+U+235b uni235B              3.1
+U+235c uni235C              3.1
+U+235d uni235D              3.1
+U+235e uni235E              3.1
+U+235f uni235F              3.1
+U+2360 uni2360              3.1
+U+2361 uni2361              3.1
+U+2362 uni2362              3.1
+U+2363 uni2363              3.1
+U+2364 uni2364              3.1
+U+2365 uni2365              3.1
+U+2366 uni2366              3.1
+U+2367 uni2367              3.1
+U+2368 uni2368              3.1
+U+2369 uni2369              3.1
+U+236a uni236A              3.1
+U+236b uni236B              3.1
+U+236c uni236C              3.1
+U+236d uni236D              3.1
+U+236e uni236E              3.1
+U+236f uni236F              3.1
+U+2370 uni2370              3.1
+U+2371 uni2371              3.1
+U+2372 uni2372              3.1
+U+2373 uni2373              3.1
+U+2374 uni2374              3.1
+U+2375 uni2375              3.1
+U+2376 uni2376              3.1
+U+2377 uni2377              3.1
+U+2378 uni2378              3.1
+U+2379 uni2379              3.1
+U+237a uni237A              3.1
+U+237d uni237D              3.1
+U+2380 uni2380              3.1
+U+2381 uni2381              3.1
+U+2382 uni2382              3.1
+U+2383 uni2383              3.1
+U+2388 uni2388              3.1
+U+2389 uni2389              3.1
+U+238a uni238A              3.1
+U+238b uni238B              3.1
+U+2395 uni2395              3.1
+U+239b uni239B              3.1
+U+239c uni239C              3.1
+U+239d uni239D              3.1
+U+239e uni239E              3.1
+U+239f uni239F              3.1
+U+23a0 uni23A0              3.1
+U+23a1 uni23A1              3.1
+U+23a2 uni23A2              3.1
+U+23a3 uni23A3              3.1
+U+23a4 uni23A4              3.1
+U+23a5 uni23A5              3.1
+U+23a6 uni23A6              3.1
+U+23a7 uni23A7              3.1
+U+23a8 uni23A8              3.1
+U+23a9 uni23A9              3.1
+U+23aa uni23AA              3.1
+U+23ab uni23AB              3.1
+U+23ac uni23AC              3.1
+U+23ad uni23AD              3.1
+U+23ae uni23AE              3.1
+U+23ce uni23CE              3.1
+U+23cf uni23CF              3.1
+U+2423 uni2423              3.1
+U+2500 SF100000             3.1
+U+2501 uni2501              3.1
+U+2502 SF110000             3.1
+U+2503 uni2503              3.1
+U+2504 uni2504              3.1
+U+2505 uni2505              3.1
+U+2506 uni2506              3.1
+U+2507 uni2507              3.1
+U+2508 uni2508              3.1
+U+2509 uni2509              3.1
+U+250a uni250A              3.1
+U+250b uni250B              3.1
+U+250c SF010000             3.1
+U+250d uni250D              3.1
+U+250e uni250E              3.1
+U+250f uni250F              3.1
+U+2510 SF030000             3.1
+U+2511 uni2511              3.1
+U+2512 uni2512              3.1
+U+2513 uni2513              3.1
+U+2514 SF020000             3.1
+U+2515 uni2515              3.1
+U+2516 uni2516              3.1
+U+2517 uni2517              3.1
+U+2518 SF040000             3.1
+U+2519 uni2519              3.1
+U+251a uni251A              3.1
+U+251b uni251B              3.1
+U+251c SF080000             3.1
+U+251d uni251D              3.1
+U+251e uni251E              3.1
+U+251f uni251F              3.1
+U+2520 uni2520              3.1
+U+2521 uni2521              3.1
+U+2522 uni2522              3.1
+U+2523 uni2523              3.1
+U+2524 SF090000             3.1
+U+2525 uni2525              3.1
+U+2526 uni2526              3.1
+U+2527 uni2527              3.1
+U+2528 uni2528              3.1
+U+2529 uni2529              3.1
+U+252a uni252A              3.1
+U+252b uni252B              3.1
+U+252c SF060000             3.1
+U+252d uni252D              3.1
+U+252e uni252E              3.1
+U+252f uni252F              3.1
+U+2530 uni2530              3.1
+U+2531 uni2531              3.1
+U+2532 uni2532              3.1
+U+2533 uni2533              3.1
+U+2534 SF070000             3.1
+U+2535 uni2535              3.1
+U+2536 uni2536              3.1
+U+2537 uni2537              3.1
+U+2538 uni2538              3.1
+U+2539 uni2539              3.1
+U+253a uni253A              3.1
+U+253b uni253B              3.1
+U+253c SF050000             3.1
+U+253d uni253D              3.1
+U+253e uni253E              3.1
+U+253f uni253F              3.1
+U+2540 uni2540              3.1
+U+2541 uni2541              3.1
+U+2542 uni2542              3.1
+U+2543 uni2543              3.1
+U+2544 uni2544              3.1
+U+2545 uni2545              3.1
+U+2546 uni2546              3.1
+U+2547 uni2547              3.1
+U+2548 uni2548              3.1
+U+2549 uni2549              3.1
+U+254a uni254A              3.1
+U+254b uni254B              3.1
+U+254c uni254C              3.1
+U+254d uni254D              3.1
+U+254e uni254E              3.1
+U+254f uni254F              3.1
+U+2550 SF430000             3.1
+U+2551 SF240000             3.1
+U+2552 SF510000             3.1
+U+2553 SF520000             3.1
+U+2554 SF390000             3.1
+U+2555 SF220000             3.1
+U+2556 SF210000             3.1
+U+2557 SF250000             3.1
+U+2558 SF500000             3.1
+U+2559 SF490000             3.1
+U+255a SF380000             3.1
+U+255b SF280000             3.1
+U+255c SF270000             3.1
+U+255d SF260000             3.1
+U+255e SF360000             3.1
+U+255f SF370000             3.1
+U+2560 SF420000             3.1
+U+2561 SF190000             3.1
+U+2562 SF200000             3.1
+U+2563 SF230000             3.1
+U+2564 SF470000             3.1
+U+2565 SF480000             3.1
+U+2566 SF410000             3.1
+U+2567 SF450000             3.1
+U+2568 SF460000             3.1
+U+2569 SF400000             3.1
+U+256a SF540000             3.1
+U+256b SF530000             3.1
+U+256c SF440000             3.1
+U+256d uni256D              3.1
+U+256e uni256E              3.1
+U+256f uni256F              3.1
+U+2570 uni2570              3.1
+U+2571 uni2571              3.1
+U+2572 uni2572              3.1
+U+2573 uni2573              3.1
+U+2574 uni2574              3.1
+U+2575 uni2575              3.1
+U+2576 uni2576              3.1
+U+2577 uni2577              3.1
+U+2578 uni2578              3.1
+U+2579 uni2579              3.1
+U+257a uni257A              3.1
+U+257b uni257B              3.1
+U+257c uni257C              3.1
+U+257d uni257D              3.1
+U+257e uni257E              3.1
+U+257f uni257F              3.1
+U+2580 upblock              3.1
+U+2581 uni2581              3.1
+U+2582 uni2582              3.1
+U+2583 uni2583              3.1
+U+2584 dnblock              3.1
+U+2585 uni2585              3.1
+U+2586 uni2586              3.1
+U+2587 uni2587              3.1
+U+2588 block                3.1
+U+2589 uni2589              3.1
+U+258a uni258A              3.1
+U+258b uni258B              3.1
+U+258c lfblock              3.1
+U+258d uni258D              3.1
+U+258e uni258E              3.1
+U+258f uni258F              3.1
+U+2590 rtblock              3.1
+U+2591 ltshade              3.1
+U+2592 shade                3.1
+U+2593 dkshade              3.1
+U+2594 uni2594              3.1
+U+2595 uni2595              3.1
+U+2596 uni2596              3.1
+U+2597 uni2597              3.1
+U+2598 uni2598              3.1
+U+2599 uni2599              3.1
+U+259a uni259A              3.1
+U+259b uni259B              3.1
+U+259c uni259C              3.1
+U+259d uni259D              3.1
+U+259e uni259E              3.1
+U+259f uni259F              3.1
+U+25a0 filledbox            3.1
+U+25a1 H22073               3.1
+U+25a2 uni25A2              3.1
+U+25a3 uni25A3              3.1
+U+25a4 uni25A4              3.1
+U+25a5 uni25A5              3.1
+U+25a6 uni25A6              3.1
+U+25a7 uni25A7              3.1
+U+25a8 uni25A8              3.1
+U+25a9 uni25A9              3.1
+U+25aa H18543               3.1
+U+25ab H18551               3.1
+U+25ac filledrect           3.1
+U+25ad uni25AD              3.1
+U+25ae uni25AE              3.1
+U+25af uni25AF              3.1
+U+25b0 uni25B0              3.1
+U+25b1 uni25B1              3.1
+U+25b2 triagup              3.1
+U+25b3 uni25B3              3.1
+U+25b4 uni25B4              3.1
+U+25b5 uni25B5              3.1
+U+25b6 uni25B6              3.1
+U+25b7 uni25B7              3.1
+U+25b8 uni25B8              3.1
+U+25b9 uni25B9              3.1
+U+25ba triagrt              3.1
+U+25bb uni25BB              3.1
+U+25bc triagdn              3.1
+U+25bd uni25BD              3.1
+U+25be uni25BE              3.1
+U+25bf uni25BF              3.1
+U+25c0 uni25C0              3.1
+U+25c1 uni25C1              3.1
+U+25c2 uni25C2              3.1
+U+25c3 uni25C3              3.1
+U+25c4 triaglf              3.1
+U+25c5 uni25C5              3.1
+U+25c6 uni25C6              3.1
+U+25c7 uni25C7              3.1
+U+25c8 uni25C8              3.1
+U+25c9 uni25C9              3.1
+U+25ca lozenge              3.1
+U+25cb circle               3.1
+U+25cc uni25CC              3.1
+U+25cd uni25CD              3.1
+U+25ce uni25CE              3.1
+U+25cf H18533               3.1
+U+25d0 uni25D0              3.1
+U+25d1 uni25D1              3.1
+U+25d2 uni25D2              3.1
+U+25d3 uni25D3              3.1
+U+25d4 uni25D4              3.1
+U+25d5 uni25D5              3.1
+U+25d6 uni25D6              3.1
+U+25d7 uni25D7              3.1
+U+25d8 invbullet            3.1
+U+25d9 invcircle            3.1
+U+25da uni25DA              3.1
+U+25db uni25DB              3.1
+U+25dc uni25DC              3.1
+U+25dd uni25DD              3.1
+U+25de uni25DE              3.1
+U+25df uni25DF              3.1
+U+25e0 uni25E0              3.1
+U+25e1 uni25E1              3.1
+U+25e2 uni25E2              3.1
+U+25e3 uni25E3              3.1
+U+25e4 uni25E4              3.1
+U+25e5 uni25E5              3.1
+U+25e6 openbullet           3.1
+U+25e7 uni25E7              3.1
+U+25e8 uni25E8              3.1
+U+25e9 uni25E9              3.1
+U+25ea uni25EA              3.1
+U+25eb uni25EB              3.1
+U+25ec uni25EC              3.1
+U+25ed uni25ED              3.1
+U+25ee uni25EE              3.1
+U+25ef uni25EF              3.1
+U+25f0 uni25F0              3.1
+U+25f1 uni25F1              3.1
+U+25f2 uni25F2              3.1
+U+25f3 uni25F3              3.1
+U+25f4 uni25F4              3.1
+U+25f5 uni25F5              3.1
+U+25f6 uni25F6              3.1
+U+25f7 uni25F7              3.1
+U+25f8 uni25F8              3.1
+U+25f9 uni25F9              3.1
+U+25fa uni25FA              3.1
+U+25fb uni25FB              3.1
+U+25fc uni25FC              3.1
+U+25fd uni25FD              3.1
+U+25fe uni25FE              3.1
+U+25ff uni25FF              3.1
+U+2600 uni2600              3.1
+U+2601 uni2601              3.1 (Mono, Mono Bold)
+U+2602 uni2602              3.1 (Mono, Mono Bold)
+U+2603 uni2603              3.1 (Mono, Mono Bold)
+U+2604 uni2604              3.1 (Mono, Mono Bold)
+U+2605 uni2605              3.1 (Mono, Mono Bold)
+U+2606 uni2606              3.1 (Mono, Mono Bold)
+U+2607 uni2607              3.1 (Mono, Mono Bold)
+U+2608 uni2608              3.1 (Mono, Mono Bold)
+U+2609 uni2609              3.1 (Mono, Mono Bold)
+U+260a uni260A              3.1 (Mono, Mono Bold)
+U+260b uni260B              3.1 (Mono, Mono Bold)
+U+260c uni260C              3.1 (Mono, Mono Bold)
+U+260d uni260D              3.1 (Mono, Mono Bold)
+U+260e uni260E              3.1 (Mono, Mono Bold)
+U+260f uni260F              3.1 (Mono, Mono Bold)
+U+2610 uni2610              3.1 (Mono, Mono Bold)
+U+2611 uni2611              3.1 (Mono, Mono Bold)
+U+2612 uni2612              3.1 (Mono, Mono Bold)
+U+2613 uni2613              3.1 (Mono, Mono Bold)
+U+2614 uni2614              3.1 (Mono, Mono Bold)
+U+2615 uni2615              3.1 (Mono, Mono Bold)
+U+2616 uni2616              3.1 (Mono, Mono Bold)
+U+2617 uni2617              3.1 (Mono, Mono Bold)
+U+2618 uni2618              3.1 (Mono, Mono Bold)
+U+2619 uni2619              3.1 (Mono, Mono Bold)
+U+261a uni261A              3.1 (Mono, Mono Bold)
+U+261b uni261B              3.1 (Mono, Mono Bold)
+U+261c uni261C              3.1 (Mono, Mono Bold)
+U+261d uni261D              3.1 (Mono, Mono Bold)
+U+261e uni261E              3.1 (Mono, Mono Bold)
+U+261f uni261F              3.1 (Mono, Mono Bold)
+U+2620 uni2620              3.1 (Mono, Mono Bold)
+U+2621 uni2621              3.1 (Mono, Mono Bold)
+U+2622 uni2622              3.1 (Mono, Mono Bold)
+U+2623 uni2623              3.1 (Mono, Mono Bold)
+U+2624 uni2624              3.1 (Mono, Mono Bold)
+U+2625 uni2625              3.1 (Mono, Mono Bold)
+U+2626 uni2626              3.1 (Mono, Mono Bold)
+U+2627 uni2627              3.1 (Mono, Mono Bold)
+U+2628 uni2628              3.1 (Mono, Mono Bold)
+U+2629 uni2629              3.1 (Mono, Mono Bold)
+U+262a uni262A              3.1 (Mono, Mono Bold)
+U+262b uni262B              3.1 (Mono, Mono Bold)
+U+262c uni262C              3.1 (Mono, Mono Bold)
+U+262d uni262D              3.1 (Mono, Mono Bold)
+U+262e uni262E              3.1 (Mono, Mono Bold)
+U+262f uni262F              3.1 (Mono, Mono Bold)
+U+2638 uni2638              3.1
+U+2639 uni2639              3.1
+U+263a smileface            3.1
+U+263b invsmileface         3.1
+U+263c sun                  3.1
+U+263d uni263D              3.1 (Mono, Mono Bold)
+U+263e uni263E              3.1 (Mono, Mono Bold)
+U+263f uni263F              3.1
+U+2640 female               3.1
+U+2641 uni2641              3.1
+U+2642 male                 3.1
+U+2643 uni2643              3.1
+U+2644 uni2644              3.1
+U+2645 uni2645              3.1
+U+2646 uni2646              3.1
+U+2647 uni2647              3.1
+U+2648 uni2648              3.1 (Mono, Mono Bold)
+U+2649 uni2649              3.1 (Mono, Mono Bold)
+U+264a uni264A              3.1 (Mono, Mono Bold)
+U+264b uni264B              3.1 (Mono, Mono Bold)
+U+264c uni264C              3.1 (Mono, Mono Bold)
+U+264d uni264D              3.1 (Mono, Mono Bold)
+U+264e uni264E              3.1 (Mono, Mono Bold)
+U+264f uni264F              3.1 (Mono, Mono Bold)
+U+2650 uni2650              3.1 (Mono, Mono Bold)
+U+2651 uni2651              3.1 (Mono, Mono Bold)
+U+2652 uni2652              3.1 (Mono, Mono Bold)
+U+2653 uni2653              3.1 (Mono, Mono Bold)
+U+2654 uni2654              3.1 (Mono, Mono Bold)
+U+2655 uni2655              3.1 (Mono, Mono Bold)
+U+2656 uni2656              3.1 (Mono, Mono Bold)
+U+2657 uni2657              3.1 (Mono, Mono Bold)
+U+2658 uni2658              3.1 (Mono, Mono Bold)
+U+2659 uni2659              3.1 (Mono, Mono Bold)
+U+265a uni265A              3.1 (Mono, Mono Bold)
+U+265b uni265B              3.1 (Mono, Mono Bold)
+U+265c uni265C              3.1 (Mono, Mono Bold)
+U+265d uni265D              3.1 (Mono, Mono Bold)
+U+265e uni265E              3.1 (Mono, Mono Bold)
+U+265f uni265F              3.1 (Mono, Mono Bold)
+U+2660 spade                3.1
+U+2661 uni2661              3.1
+U+2662 uni2662              3.1
+U+2663 club                 3.1
+U+2664 uni2664              3.1
+U+2665 heart                3.1
+U+2666 diamond              3.1
+U+2667 uni2667              3.1
+U+2668 uni2668              3.1 (Mono, Mono Bold)
+U+2669 uni2669              3.1
+U+266a musicalnote          3.1
+U+266b musicalnotedbl       3.1
+U+266c uni266C              3.1
+U+266d uni266D              3.1
+U+266e uni266E              3.1
+U+266f uni266F              3.1
+U+2670 uni2670              3.1 (Mono, Mono Bold)
+U+2671 uni2671              3.1 (Mono, Mono Bold)
+U+2672 uni2672              3.1 (Mono, Mono Bold)
+U+2673 uni2673              3.1 (Mono, Mono Bold)
+U+2674 uni2674              3.1 (Mono, Mono Bold)
+U+2675 uni2675              3.1 (Mono, Mono Bold)
+U+2676 uni2676              3.1 (Mono, Mono Bold)
+U+2677 uni2677              3.1 (Mono, Mono Bold)
+U+2678 uni2678              3.1 (Mono, Mono Bold)
+U+2679 uni2679              3.1 (Mono, Mono Bold)
+U+267a uni267A              3.1 (Mono, Mono Bold)
+U+267b uni267B              3.1 (Mono, Mono Bold)
+U+267c uni267C              3.1 (Mono, Mono Bold)
+U+267d uni267D              3.1 (Mono, Mono Bold)
+U+267e uni267E              3.1 (Mono, Mono Bold)
+U+267f uni267F              3.1 (Mono, Mono Bold)
+U+2680 uni2680              3.1 (Mono, Mono Bold)
+U+2681 uni2681              3.1 (Mono, Mono Bold)
+U+2682 uni2682              3.1 (Mono, Mono Bold)
+U+2683 uni2683              3.1 (Mono, Mono Bold)
+U+2684 uni2684              3.1 (Mono, Mono Bold)
+U+2685 uni2685              3.1 (Mono, Mono Bold)
+U+2686 uni2686              3.1 (Mono, Mono Bold)
+U+2687 uni2687              3.1 (Mono, Mono Bold)
+U+2688 uni2688              3.1 (Mono, Mono Bold)
+U+2689 uni2689              3.1 (Mono, Mono Bold)
+U+268a uni268A              3.1 (Mono, Mono Bold)
+U+268b uni268B              3.1 (Mono, Mono Bold)
+U+2690 uni2690              3.1 (Mono, Mono Bold)
+U+2691 uni2691              3.1 (Mono, Mono Bold)
+U+2692 uni2692              3.1 (Mono, Mono Bold)
+U+2693 uni2693              3.1 (Mono, Mono Bold)
+U+2694 uni2694              3.1 (Mono, Mono Bold)
+U+2695 uni2695              3.1 (Mono, Mono Bold)
+U+2696 uni2696              3.1 (Mono, Mono Bold)
+U+2697 uni2697              3.1 (Mono, Mono Bold)
+U+2698 uni2698              3.1 (Mono, Mono Bold)
+U+2699 uni2699              3.1 (Mono, Mono Bold)
+U+269a uni269A              3.1 (Mono, Mono Bold)
+U+269b uni269B              3.1 (Mono, Mono Bold)
+U+269c uni269C              3.1 (Mono, Mono Bold)
+U+26a0 uni26A0              3.1 (Mono, Mono Bold)
+U+26a1 uni26A1              3.1 (Mono, Mono Bold)
+U+26b0 uni26B0              3.1 (Mono, Mono Bold)
+U+26b1 uni26B1              3.1 (Mono, Mono Bold)
+U+2701 uni2701              3.1 (Mono, Mono Bold)
+U+2702 uni2702              3.1 (Mono, Mono Bold)
+U+2703 uni2703              3.1 (Mono, Mono Bold)
+U+2704 uni2704              3.1 (Mono, Mono Bold)
+U+2706 uni2706              3.1 (Mono, Mono Bold)
+U+2707 uni2707              3.1 (Mono, Mono Bold)
+U+2708 uni2708              3.1 (Mono, Mono Bold)
+U+2709 uni2709              3.1 (Mono, Mono Bold)
+U+270c uni270C              3.1 (Mono, Mono Bold)
+U+270d uni270D              3.1 (Mono, Mono Bold)
+U+270e uni270E              3.1 (Mono, Mono Bold)
+U+270f uni270F              3.1 (Mono, Mono Bold)
+U+2710 uni2710              3.1 (Mono, Mono Bold)
+U+2711 uni2711              3.1 (Mono, Mono Bold)
+U+2712 uni2712              3.1 (Mono, Mono Bold)
+U+2713 uni2713              3.1 (Mono, Mono Bold)
+U+2714 uni2714              3.1 (Mono, Mono Bold)
+U+2715 uni2715              3.1 (Mono, Mono Bold)
+U+2716 uni2716              3.1 (Mono, Mono Bold)
+U+2717 uni2717              3.1 (Mono, Mono Bold)
+U+2718 uni2718              3.1 (Mono, Mono Bold)
+U+2719 uni2719              3.1 (Mono, Mono Bold)
+U+271a uni271A              3.1 (Mono, Mono Bold)
+U+271b uni271B              3.1 (Mono, Mono Bold)
+U+271c uni271C              3.1 (Mono, Mono Bold)
+U+271d uni271D              3.1 (Mono, Mono Bold)
+U+271e uni271E              3.1 (Mono, Mono Bold)
+U+271f uni271F              3.1 (Mono, Mono Bold)
+U+2720 uni2720              3.1 (Mono, Mono Bold)
+U+2721 uni2721              3.1 (Mono, Mono Bold)
+U+2722 uni2722              3.1 (Mono, Mono Bold)
+U+2723 uni2723              3.1 (Mono, Mono Bold)
+U+2724 uni2724              3.1 (Mono, Mono Bold)
+U+2725 uni2725              3.1 (Mono, Mono Bold)
+U+2726 uni2726              3.1 (Mono, Mono Bold)
+U+2727 uni2727              3.1 (Mono, Mono Bold)
+U+2729 uni2729              3.1 (Mono, Mono Bold)
+U+272a uni272A              3.1 (Mono, Mono Bold)
+U+272b uni272B              3.1 (Mono, Mono Bold)
+U+272c uni272C              3.1 (Mono, Mono Bold)
+U+272d uni272D              3.1 (Mono, Mono Bold)
+U+272e uni272E              3.1 (Mono, Mono Bold)
+U+272f uni272F              3.1 (Mono, Mono Bold)
+U+2730 uni2730              3.1 (Mono, Mono Bold)
+U+2731 uni2731              3.1 (Mono, Mono Bold)
+U+2732 uni2732              3.1 (Mono, Mono Bold)
+U+2733 uni2733              3.1 (Mono, Mono Bold)
+U+2734 uni2734              3.1 (Mono, Mono Bold)
+U+2735 uni2735              3.1 (Mono, Mono Bold)
+U+2736 uni2736              3.1 (Mono, Mono Bold)
+U+2737 uni2737              3.1 (Mono, Mono Bold)
+U+2738 uni2738              3.1 (Mono, Mono Bold)
+U+2739 uni2739              3.1 (Mono, Mono Bold)
+U+273a uni273A              3.1 (Mono, Mono Bold)
+U+273b uni273B              3.1 (Mono, Mono Bold)
+U+273c uni273C              3.1 (Mono, Mono Bold)
+U+273d uni273D              3.1 (Mono, Mono Bold)
+U+273e uni273E              3.1 (Mono, Mono Bold)
+U+273f uni273F              3.1 (Mono, Mono Bold)
+U+2740 uni2740              3.1 (Mono, Mono Bold)
+U+2741 uni2741              3.1 (Mono, Mono Bold)
+U+2742 uni2742              3.1 (Mono, Mono Bold)
+U+2743 uni2743              3.1 (Mono, Mono Bold)
+U+2744 uni2744              3.1 (Mono, Mono Bold)
+U+2745 uni2745              3.1 (Mono, Mono Bold)
+U+2746 uni2746              3.1 (Mono, Mono Bold)
+U+2747 uni2747              3.1 (Mono, Mono Bold)
+U+2748 uni2748              3.1 (Mono, Mono Bold)
+U+2749 uni2749              3.1 (Mono, Mono Bold)
+U+274a uni274A              3.1 (Mono, Mono Bold)
+U+274b uni274B              3.1 (Mono, Mono Bold)
+U+274d uni274D              3.1 (Mono, Mono Bold)
+U+274f uni274F              3.1 (Mono, Mono Bold)
+U+2750 uni2750              3.1 (Mono, Mono Bold)
+U+2751 uni2751              3.1 (Mono, Mono Bold)
+U+2752 uni2752              3.1 (Mono, Mono Bold)
+U+2756 uni2756              3.1 (Mono, Mono Bold)
+U+2758 uni2758              3.1 (Mono, Mono Bold)
+U+2759 uni2759              3.1 (Mono, Mono Bold)
+U+275a uni275A              3.1 (Mono, Mono Bold)
+U+275b uni275B              3.1 (Mono, Mono Bold)
+U+275c uni275C              3.1 (Mono, Mono Bold)
+U+275d uni275D              3.1 (Mono, Mono Bold)
+U+275e uni275E              3.1 (Mono, Mono Bold)
+U+2761 uni2761              3.1 (Mono, Mono Bold)
+U+2762 uni2762              3.1 (Mono, Mono Bold)
+U+2763 uni2763              3.1 (Mono, Mono Bold)
+U+2764 uni2764              3.1 (Mono, Mono Bold)
+U+2765 uni2765              3.1 (Mono, Mono Bold)
+U+2766 uni2766              3.1 (Mono, Mono Bold)
+U+2767 uni2767              3.1 (Mono, Mono Bold)
+U+2768 uni2768              3.1 (Mono, Mono Bold)
+U+2769 uni2769              3.1 (Mono, Mono Bold)
+U+276a uni276A              3.1 (Mono, Mono Bold)
+U+276b uni276B              3.1 (Mono, Mono Bold)
+U+276c uni276C              3.1 (Mono, Mono Bold)
+U+276d uni276D              3.1 (Mono, Mono Bold)
+U+276e uni276E              3.1 (Mono, Mono Bold)
+U+276f uni276F              3.1 (Mono, Mono Bold)
+U+2770 uni2770              3.1 (Mono, Mono Bold)
+U+2771 uni2771              3.1 (Mono, Mono Bold)
+U+2772 uni2772              3.1 (Mono, Mono Bold)
+U+2773 uni2773              3.1 (Mono, Mono Bold)
+U+2774 uni2774              3.1 (Mono, Mono Bold)
+U+2775 uni2775              3.1 (Mono, Mono Bold)
+U+2794 uni2794              3.1 (Mono, Mono Bold)
+U+2798 uni2798              3.1 (Mono, Mono Bold)
+U+2799 uni2799              3.1 (Mono, Mono Bold)
+U+279a uni279A              3.1 (Mono, Mono Bold)
+U+279b uni279B              3.1 (Mono, Mono Bold)
+U+279c uni279C              3.1 (Mono, Mono Bold)
+U+279d uni279D              3.1 (Mono, Mono Bold)
+U+279e uni279E              3.1 (Mono, Mono Bold)
+U+279f uni279F              3.1 (Mono, Mono Bold)
+U+27a0 uni27A0              3.1 (Mono, Mono Bold)
+U+27a1 uni27A1              3.1 (Mono, Mono Bold)
+U+27a2 uni27A2              3.1 (Mono, Mono Bold)
+U+27a3 uni27A3              3.1 (Mono, Mono Bold)
+U+27a4 uni27A4              3.1 (Mono, Mono Bold)
+U+27a5 uni27A5              3.1 (Mono, Mono Bold)
+U+27a6 uni27A6              3.1 (Mono, Mono Bold)
+U+27a7 uni27A7              3.1 (Mono, Mono Bold)
+U+27a8 uni27A8              3.1 (Mono, Mono Bold)
+U+27a9 uni27A9              3.1 (Mono, Mono Bold)
+U+27aa uni27AA              3.1 (Mono, Mono Bold)
+U+27ab uni27AB              3.1 (Mono, Mono Bold)
+U+27ac uni27AC              3.1 (Mono, Mono Bold)
+U+27ad uni27AD              3.1 (Mono, Mono Bold)
+U+27ae uni27AE              3.1 (Mono, Mono Bold)
+U+27af uni27AF              3.1 (Mono, Mono Bold)
+U+27b1 uni27B1              3.1 (Mono, Mono Bold)
+U+27b2 uni27B2              3.1 (Mono, Mono Bold)
+U+27b3 uni27B3              3.1 (Mono, Mono Bold)
+U+27b4 uni27B4              3.1 (Mono, Mono Bold)
+U+27b5 uni27B5              3.1 (Mono, Mono Bold)
+U+27b6 uni27B6              3.1 (Mono, Mono Bold)
+U+27b7 uni27B7              3.1 (Mono, Mono Bold)
+U+27b8 uni27B8              3.1 (Mono, Mono Bold)
+U+27b9 uni27B9              3.1 (Mono, Mono Bold)
+U+27ba uni27BA              3.1 (Mono, Mono Bold)
+U+27bb uni27BB              3.1 (Mono, Mono Bold)
+U+27bc uni27BC              3.1 (Mono, Mono Bold)
+U+27bd uni27BD              3.1 (Mono, Mono Bold)
+U+27be uni27BE              3.1 (Mono, Mono Bold)
+U+27bf uni27BF              3.1 (Mono Bold)
+U+27c2 uni27C2              3.1
+U+27c5 uni27C5              3.1
+U+27c6 uni27C6              3.1
+U+27dc uni27DC              3.1
+U+27e0 uni27E0              3.1
+U+27e6 uni27E6              3.1
+U+27e7 uni27E7              3.1
+U+27e8 uni27E8              3.1
+U+27e9 uni27E9              3.1
+U+27ea uni27EA              3.1
+U+27eb uni27EB              3.1
+U+27f5 uni27F5              3.1
+U+27f6 uni27F6              3.1
+U+27f7 uni27F7              3.1
+U+2987 uni2987              3.1
+U+2988 uni2988              3.1
+U+2997 uni2997              3.1
+U+2998 uni2998              3.1
+U+29eb uni29EB              3.1
+U+29fa uni29FA              3.1
+U+29fb uni29FB              3.1
+U+2a00 uni2A00              3.1
+U+2a2f uni2A2F              3.1
+U+2a6a uni2A6A              3.1
+U+2a6b uni2A6B              3.1
+U+2b05 uni2B05              3.1
+U+2b06 uni2B06              3.1
+U+2b07 uni2B07              3.1
+U+2b08 uni2B08              3.1
+U+2b09 uni2B09              3.1
+U+2b0a uni2B0A              3.1
+U+2b0b uni2B0B              3.1
+U+2b0c uni2B0C              3.1
+U+2b0d uni2B0D              3.1
+U+2b12 uni2B12              3.1
+U+2b13 uni2B13              3.1
+U+2b14 uni2B14              3.1
+U+2b15 uni2B15              3.1
+U+2b16 uni2B16              3.1
+U+2b17 uni2B17              3.1
+U+2b18 uni2B18              3.1
+U+2b19 uni2B19              3.1
+U+2b1a uni2B1A              3.1
+U+2c64 uni2C64              3.1
+U+2c6d uni2C6D              3.1
+U+2c6e uni2C6E              3.1
+U+2c6f uni2C6F              3.1
+U+2c70 uni2C70              3.1
+U+2c75 uni2C75              3.1
+U+2c76 uni2C76              3.1
+U+2c77 uni2C77              3.1
+U+2c79 uni2C79              3.1
+U+2c7a uni2C7A              3.1
+U+2c7c uni2C7C              3.1
+U+2c7d uni2C7D              3.1
+U+2c7e uni2C7E              3.1
+U+2c7f uni2C7F              3.1
+U+2e18 uni2E18              3.1
+U+2e1f uni2E1F              3.1
+U+2e22 uni2E22              3.1
+U+2e23 uni2E23              3.1
+U+2e24 uni2E24              3.1
+U+2e25 uni2E25              3.1
+U+2e2e uni2E2E              3.1
+U+a708 uniA708              3.1
+U+a709 uniA709              3.1
+U+a70a uniA70A              3.1
+U+a70b uniA70B              3.1
+U+a70c uniA70C              3.1
+U+a70d uniA70D              3.1
+U+a70e uniA70E              3.1
+U+a70f uniA70F              3.1
+U+a710 uniA710              3.1
+U+a711 uniA711              3.1
+U+a712 uniA712              3.1
+U+a713 uniA713              3.1
+U+a714 uniA714              3.1
+U+a715 uniA715              3.1
+U+a716 uniA716              3.1
+U+a71b uniA71B              3.1
+U+a71c uniA71C              3.1
+U+a71d uniA71D              3.1
+U+a71e uniA71E              3.1
+U+a71f uniA71F              3.1
+U+a722 uniA722              3.1
+U+a723 uniA723              3.1
+U+a724 uniA724              3.1
+U+a725 uniA725              3.1
+U+a726 uniA726              3.1
+U+a727 uniA727              3.1
+U+a789 uniA789              3.1
+U+a78a uniA78A              3.1
+U+a78b uniA78B              3.1
+U+a78c uniA78C              3.1
+U+a78d uniA78D              3.1
+U+a78e uniA78E              3.1
+U+a790 uniA790              3.1
+U+a791 uniA791              3.1
+U+a7aa uniA7AA              3.1
+U+a7f8 uniA7F8              3.1
+U+a7f9 uniA7F9              3.1
+U+f6c5 uniF6C5              3.1
+U+fb01 fi                   3.1
+U+fb02 fl                   3.1
+U+fb52 uniFB52              3.1 (Mono, Mono Bold)
+U+fb53 uniFB53              3.1 (Mono, Mono Bold)
+U+fb54 uniFB54              3.1 (Mono, Mono Bold)
+U+fb55 uniFB55              3.1 (Mono, Mono Bold)
+U+fb56 uniFB56              3.1 (Mono, Mono Bold)
+U+fb57 uniFB57              3.1 (Mono, Mono Bold)
+U+fb58 uniFB58              3.1 (Mono, Mono Bold)
+U+fb59 uniFB59              3.1 (Mono, Mono Bold)
+U+fb5a uniFB5A              3.1 (Mono, Mono Bold)
+U+fb5b uniFB5B              3.1 (Mono, Mono Bold)
+U+fb5c uniFB5C              3.1 (Mono, Mono Bold)
+U+fb5d uniFB5D              3.1 (Mono, Mono Bold)
+U+fb5e uniFB5E              3.1 (Mono, Mono Bold)
+U+fb5f uniFB5F              3.1 (Mono, Mono Bold)
+U+fb60 uniFB60              3.1 (Mono, Mono Bold)
+U+fb61 uniFB61              3.1 (Mono, Mono Bold)
+U+fb62 uniFB62              3.1 (Mono, Mono Bold)
+U+fb63 uniFB63              3.1 (Mono, Mono Bold)
+U+fb64 uniFB64              3.1 (Mono, Mono Bold)
+U+fb65 uniFB65              3.1 (Mono, Mono Bold)
+U+fb66 uniFB66              3.1 (Mono, Mono Bold)
+U+fb67 uniFB67              3.1 (Mono, Mono Bold)
+U+fb68 uniFB68              3.1 (Mono, Mono Bold)
+U+fb69 uniFB69              3.1 (Mono, Mono Bold)
+U+fb6a uniFB6A              3.1 (Mono, Mono Bold)
+U+fb6b uniFB6B              3.1 (Mono, Mono Bold)
+U+fb6c uniFB6C              3.1 (Mono, Mono Bold)
+U+fb6d uniFB6D              3.1 (Mono, Mono Bold)
+U+fb6e uniFB6E              3.1 (Mono, Mono Bold)
+U+fb6f uniFB6F              3.1 (Mono, Mono Bold)
+U+fb70 uniFB70              3.1 (Mono, Mono Bold)
+U+fb71 uniFB71              3.1 (Mono, Mono Bold)
+U+fb72 uniFB72              3.1 (Mono, Mono Bold)
+U+fb73 uniFB73              3.1 (Mono, Mono Bold)
+U+fb74 uniFB74              3.1 (Mono, Mono Bold)
+U+fb75 uniFB75              3.1 (Mono, Mono Bold)
+U+fb76 uniFB76              3.1 (Mono, Mono Bold)
+U+fb77 uniFB77              3.1 (Mono, Mono Bold)
+U+fb78 uniFB78              3.1 (Mono, Mono Bold)
+U+fb79 uniFB79              3.1 (Mono, Mono Bold)
+U+fb7a uniFB7A              3.1 (Mono, Mono Bold)
+U+fb7b uniFB7B              3.1 (Mono, Mono Bold)
+U+fb7c uniFB7C              3.1 (Mono, Mono Bold)
+U+fb7d uniFB7D              3.1 (Mono, Mono Bold)
+U+fb7e uniFB7E              3.1 (Mono, Mono Bold)
+U+fb7f uniFB7F              3.1 (Mono, Mono Bold)
+U+fb80 uniFB80              3.1 (Mono, Mono Bold)
+U+fb81 uniFB81              3.1 (Mono, Mono Bold)
+U+fb8a uniFB8A              3.1 (Mono, Mono Bold)
+U+fb8b uniFB8B              3.1 (Mono, Mono Bold)
+U+fb8c uniFB8C              3.1 (Mono, Mono Bold)
+U+fb8d uniFB8D              3.1 (Mono, Mono Bold)
+U+fb8e uniFB8E              3.1 (Mono, Mono Bold)
+U+fb8f uniFB8F              3.1 (Mono, Mono Bold)
+U+fb90 uniFB90              3.1 (Mono, Mono Bold)
+U+fb91 uniFB91              3.1 (Mono, Mono Bold)
+U+fb92 uniFB92              3.1 (Mono, Mono Bold)
+U+fb93 uniFB93              3.1 (Mono, Mono Bold)
+U+fb94 uniFB94              3.1 (Mono, Mono Bold)
+U+fb95 uniFB95              3.1 (Mono, Mono Bold)
+U+fb9e uniFB9E              3.1 (Mono, Mono Bold)
+U+fb9f uniFB9F              3.1 (Mono, Mono Bold)
+U+fbaa uniFBAA              3.1 (Mono, Mono Bold)
+U+fbab uniFBAB              3.1 (Mono, Mono Bold)
+U+fbac uniFBAC              3.1 (Mono, Mono Bold)
+U+fbad uniFBAD              3.1 (Mono, Mono Bold)
+U+fbe8 uniFBE8              3.1 (Mono, Mono Bold)
+U+fbe9 uniFBE9              3.1 (Mono, Mono Bold)
+U+fbfc uniFBFC              3.1 (Mono, Mono Bold)
+U+fbfd uniFBFD              3.1 (Mono, Mono Bold)
+U+fbfe uniFBFE              3.1 (Mono, Mono Bold)
+U+fbff uniFBFF              3.1 (Mono, Mono Bold)
+U+fe70 uniFE70              3.1 (Mono, Mono Bold)
+U+fe71 uniFE71              3.1 (Mono, Mono Bold)
+U+fe72 uniFE72              3.1 (Mono, Mono Bold)
+U+fe73 uniFE73              3.1 (Mono, Mono Bold)
+U+fe74 uniFE74              3.1 (Mono, Mono Bold)
+U+fe76 uniFE76              3.1 (Mono, Mono Bold)
+U+fe77 uniFE77              3.1 (Mono, Mono Bold)
+U+fe78 uniFE78              3.1 (Mono, Mono Bold)
+U+fe79 uniFE79              3.1 (Mono, Mono Bold)
+U+fe7a uniFE7A              3.1 (Mono, Mono Bold)
+U+fe7b uniFE7B              3.1 (Mono, Mono Bold)
+U+fe7c uniFE7C              3.1 (Mono, Mono Bold)
+U+fe7d uniFE7D              3.1 (Mono, Mono Bold)
+U+fe7e uniFE7E              3.1 (Mono, Mono Bold)
+U+fe7f uniFE7F              3.1 (Mono, Mono Bold)
+U+fe80 uniFE80              3.1 (Mono, Mono Bold)
+U+fe81 uniFE81              3.1 (Mono, Mono Bold)
+U+fe82 uniFE82              3.1 (Mono, Mono Bold)
+U+fe83 uniFE83              3.1 (Mono, Mono Bold)
+U+fe84 uniFE84              3.1 (Mono, Mono Bold)
+U+fe85 uniFE85              3.1 (Mono, Mono Bold)
+U+fe86 uniFE86              3.1 (Mono, Mono Bold)
+U+fe87 uniFE87              3.1 (Mono, Mono Bold)
+U+fe88 uniFE88              3.1 (Mono, Mono Bold)
+U+fe89 uniFE89              3.1 (Mono, Mono Bold)
+U+fe8a uniFE8A              3.1 (Mono, Mono Bold)
+U+fe8b uniFE8B              3.1 (Mono, Mono Bold)
+U+fe8c uniFE8C              3.1 (Mono, Mono Bold)
+U+fe8d uniFE8D              3.1 (Mono, Mono Bold)
+U+fe8e uniFE8E              3.1 (Mono, Mono Bold)
+U+fe8f uniFE8F              3.1 (Mono, Mono Bold)
+U+fe90 uniFE90              3.1 (Mono, Mono Bold)
+U+fe91 uniFE91              3.1 (Mono, Mono Bold)
+U+fe92 uniFE92              3.1 (Mono, Mono Bold)
+U+fe93 uniFE93              3.1 (Mono, Mono Bold)
+U+fe94 uniFE94              3.1 (Mono, Mono Bold)
+U+fe95 uniFE95              3.1 (Mono, Mono Bold)
+U+fe96 uniFE96              3.1 (Mono, Mono Bold)
+U+fe97 uniFE97              3.1 (Mono, Mono Bold)
+U+fe98 uniFE98              3.1 (Mono, Mono Bold)
+U+fe99 uniFE99              3.1 (Mono, Mono Bold)
+U+fe9a uniFE9A              3.1 (Mono, Mono Bold)
+U+fe9b uniFE9B              3.1 (Mono, Mono Bold)
+U+fe9c uniFE9C              3.1 (Mono, Mono Bold)
+U+fe9d uniFE9D              3.1 (Mono, Mono Bold)
+U+fe9e uniFE9E              3.1 (Mono, Mono Bold)
+U+fe9f uniFE9F              3.1 (Mono, Mono Bold)
+U+fea0 uniFEA0              3.1 (Mono, Mono Bold)
+U+fea1 uniFEA1              3.1 (Mono, Mono Bold)
+U+fea2 uniFEA2              3.1 (Mono, Mono Bold)
+U+fea3 uniFEA3              3.1 (Mono, Mono Bold)
+U+fea4 uniFEA4              3.1 (Mono, Mono Bold)
+U+fea5 uniFEA5              3.1 (Mono, Mono Bold)
+U+fea6 uniFEA6              3.1 (Mono, Mono Bold)
+U+fea7 uniFEA7              3.1 (Mono, Mono Bold)
+U+fea8 uniFEA8              3.1 (Mono, Mono Bold)
+U+fea9 uniFEA9              3.1 (Mono, Mono Bold)
+U+feaa uniFEAA              3.1 (Mono, Mono Bold)
+U+feab uniFEAB              3.1 (Mono, Mono Bold)
+U+feac uniFEAC              3.1 (Mono, Mono Bold)
+U+fead uniFEAD              3.1 (Mono, Mono Bold)
+U+feae uniFEAE              3.1 (Mono, Mono Bold)
+U+feaf uniFEAF              3.1 (Mono, Mono Bold)
+U+feb0 uniFEB0              3.1 (Mono, Mono Bold)
+U+feb1 uniFEB1              3.1 (Mono, Mono Bold)
+U+feb2 uniFEB2              3.1 (Mono, Mono Bold)
+U+feb3 uniFEB3              3.1 (Mono, Mono Bold)
+U+feb4 uniFEB4              3.1 (Mono, Mono Bold)
+U+feb5 uniFEB5              3.1 (Mono, Mono Bold)
+U+feb6 uniFEB6              3.1 (Mono, Mono Bold)
+U+feb7 uniFEB7              3.1 (Mono, Mono Bold)
+U+feb8 uniFEB8              3.1 (Mono, Mono Bold)
+U+feb9 uniFEB9              3.1 (Mono, Mono Bold)
+U+feba uniFEBA              3.1 (Mono, Mono Bold)
+U+febb uniFEBB              3.1 (Mono, Mono Bold)
+U+febc uniFEBC              3.1 (Mono, Mono Bold)
+U+febd uniFEBD              3.1 (Mono, Mono Bold)
+U+febe uniFEBE              3.1 (Mono, Mono Bold)
+U+febf uniFEBF              3.1 (Mono, Mono Bold)
+U+fec0 uniFEC0              3.1 (Mono, Mono Bold)
+U+fec1 uniFEC1              3.1 (Mono, Mono Bold)
+U+fec2 uniFEC2              3.1 (Mono, Mono Bold)
+U+fec3 uniFEC3              3.1 (Mono, Mono Bold)
+U+fec4 uniFEC4              3.1 (Mono, Mono Bold)
+U+fec5 uniFEC5              3.1 (Mono, Mono Bold)
+U+fec6 uniFEC6              3.1 (Mono, Mono Bold)
+U+fec7 uniFEC7              3.1 (Mono, Mono Bold)
+U+fec8 uniFEC8              3.1 (Mono, Mono Bold)
+U+fec9 uniFEC9              3.1 (Mono, Mono Bold)
+U+feca uniFECA              3.1 (Mono, Mono Bold)
+U+fecb uniFECB              3.1 (Mono, Mono Bold)
+U+fecc uniFECC              3.1 (Mono, Mono Bold)
+U+fecd uniFECD              3.1 (Mono, Mono Bold)
+U+fece uniFECE              3.1 (Mono, Mono Bold)
+U+fecf uniFECF              3.1 (Mono, Mono Bold)
+U+fed0 uniFED0              3.1 (Mono, Mono Bold)
+U+fed1 uniFED1              3.1 (Mono, Mono Bold)
+U+fed2 uniFED2              3.1 (Mono, Mono Bold)
+U+fed3 uniFED3              3.1 (Mono, Mono Bold)
+U+fed4 uniFED4              3.1 (Mono, Mono Bold)
+U+fed5 uniFED5              3.1 (Mono, Mono Bold)
+U+fed6 uniFED6              3.1 (Mono, Mono Bold)
+U+fed7 uniFED7              3.1 (Mono, Mono Bold)
+U+fed8 uniFED8              3.1 (Mono, Mono Bold)
+U+fed9 uniFED9              3.1 (Mono, Mono Bold)
+U+feda uniFEDA              3.1 (Mono, Mono Bold)
+U+fedb uniFEDB              3.1 (Mono, Mono Bold)
+U+fedc uniFEDC              3.1 (Mono, Mono Bold)
+U+fedd uniFEDD              3.1 (Mono, Mono Bold)
+U+fede uniFEDE              3.1 (Mono, Mono Bold)
+U+fedf uniFEDF              3.1 (Mono, Mono Bold)
+U+fee0 uniFEE0              3.1 (Mono, Mono Bold)
+U+fee1 uniFEE1              3.1 (Mono, Mono Bold)
+U+fee2 uniFEE2              3.1 (Mono, Mono Bold)
+U+fee3 uniFEE3              3.1 (Mono, Mono Bold)
+U+fee4 uniFEE4              3.1 (Mono, Mono Bold)
+U+fee5 uniFEE5              3.1 (Mono, Mono Bold)
+U+fee6 uniFEE6              3.1 (Mono, Mono Bold)
+U+fee7 uniFEE7              3.1 (Mono, Mono Bold)
+U+fee8 uniFEE8              3.1 (Mono, Mono Bold)
+U+fee9 uniFEE9              3.1 (Mono, Mono Bold)
+U+feea uniFEEA              3.1 (Mono, Mono Bold)
+U+feeb uniFEEB              3.1 (Mono, Mono Bold)
+U+feec uniFEEC              3.1 (Mono, Mono Bold)
+U+feed uniFEED              3.1 (Mono, Mono Bold)
+U+feee uniFEEE              3.1 (Mono, Mono Bold)
+U+feef uniFEEF              3.1 (Mono, Mono Bold)
+U+fef0 uniFEF0              3.1 (Mono, Mono Bold)
+U+fef1 uniFEF1              3.1 (Mono, Mono Bold)
+U+fef2 uniFEF2              3.1 (Mono, Mono Bold)
+U+fef3 uniFEF3              3.1 (Mono, Mono Bold)
+U+fef4 uniFEF4              3.1 (Mono, Mono Bold)
+U+fef5 uniFEF5              3.1 (Mono, Mono Bold)
+U+fef6 uniFEF6              3.1 (Mono, Mono Bold)
+U+fef7 uniFEF7              3.1 (Mono, Mono Bold)
+U+fef8 uniFEF8              3.1 (Mono, Mono Bold)
+U+fef9 uniFEF9              3.1 (Mono, Mono Bold)
+U+fefa uniFEFA              3.1 (Mono, Mono Bold)
+U+fefb uniFEFB              3.1 (Mono, Mono Bold)
+U+fefc uniFEFC              3.1 (Mono, Mono Bold)
+U+feff uniFEFF              3.1 (Mono, Mono Bold)
+U+fff9 uniFFF9              3.1
+U+fffa uniFFFA              3.1
+U+fffb uniFFFB              3.1
+U+fffc uniFFFC              3.1
+U+fffd uniFFFD              3.1
+U+1d55a u1D55A               3.1
+U+1d670 u1D670               3.1 (Mono)
+U+1d671 u1D671               3.1 (Mono)
+U+1d672 u1D672               3.1 (Mono)
+U+1d673 u1D673               3.1 (Mono)
+U+1d674 u1D674               3.1 (Mono)
+U+1d675 u1D675               3.1 (Mono)
+U+1d676 u1D676               3.1 (Mono)
+U+1d677 u1D677               3.1 (Mono)
+U+1d678 u1D678               3.1 (Mono)
+U+1d679 u1D679               3.1 (Mono)
+U+1d67a u1D67A               3.1 (Mono)
+U+1d67b u1D67B               3.1 (Mono)
+U+1d67c u1D67C               3.1 (Mono)
+U+1d67d u1D67D               3.1 (Mono)
+U+1d67e u1D67E               3.1 (Mono)
+U+1d67f u1D67F               3.1 (Mono)
+U+1d680 u1D680               3.1 (Mono)
+U+1d681 u1D681               3.1 (Mono)
+U+1d682 u1D682               3.1 (Mono)
+U+1d683 u1D683               3.1 (Mono)
+U+1d684 u1D684               3.1 (Mono)
+U+1d685 u1D685               3.1 (Mono)
+U+1d686 u1D686               3.1 (Mono)
+U+1d687 u1D687               3.1 (Mono)
+U+1d688 u1D688               3.1 (Mono)
+U+1d689 u1D689               3.1 (Mono)
+U+1d68a u1D68A               3.1 (Mono)
+U+1d68b u1D68B               3.1 (Mono)
+U+1d68c u1D68C               3.1 (Mono)
+U+1d68d u1D68D               3.1 (Mono)
+U+1d68e u1D68E               3.1 (Mono)
+U+1d68f u1D68F               3.1 (Mono)
+U+1d690 u1D690               3.1 (Mono)
+U+1d691 u1D691               3.1 (Mono)
+U+1d692 u1D692               3.1 (Mono)
+U+1d693 u1D693               3.1 (Mono)
+U+1d694 u1D694               3.1 (Mono)
+U+1d695 u1D695               3.1 (Mono)
+U+1d696 u1D696               3.1 (Mono)
+U+1d697 u1D697               3.1 (Mono)
+U+1d698 u1D698               3.1 (Mono)
+U+1d699 u1D699               3.1 (Mono)
+U+1d69a u1D69A               3.1 (Mono)
+U+1d69b u1D69B               3.1 (Mono)
+U+1d69c u1D69C               3.1 (Mono)
+U+1d69d u1D69D               3.1 (Mono)
+U+1d69e u1D69E               3.1 (Mono)
+U+1d69f u1D69F               3.1 (Mono)
+U+1d6a0 u1D6A0               3.1 (Mono)
+U+1d6a1 u1D6A1               3.1 (Mono)
+U+1d6a2 u1D6A2               3.1 (Mono)
+U+1d6a3 u1D6A3               3.1 (Mono)
+U+1d7f6 u1D7F6               3.1 (Mono)
+U+1d7f7 u1D7F7               3.1 (Mono)
+U+1d7f8 u1D7F8               3.1 (Mono)
+U+1d7f9 u1D7F9               3.1 (Mono)
+U+1d7fa u1D7FA               3.1 (Mono)
+U+1d7fb u1D7FB               3.1 (Mono)
+U+1d7fc u1D7FC               3.1 (Mono)
+U+1d7fd u1D7FD               3.1 (Mono)
+U+1d7fe u1D7FE               3.1 (Mono)
+U+1d7ff u1D7FF               3.1 (Mono)
