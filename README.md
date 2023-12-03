@@ -14,7 +14,7 @@ Download TrueType fonts (`BrutalistMono.3.001.zip`) from the [releases](https://
 
 ## License
 
-Same as DejaVu fonts, see [`LICENSE`](LICENSE).
+Bitstream Vera License with Reserved Font Names "Bitstream" and "Vera". See [`LICENSE`](LICENSE).
 
 ## Change Log
 
