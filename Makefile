@@ -47,6 +47,7 @@ NORMALIZE   = $(SCRIPTSDIR)/sfdnormalize.pl
 SRC      := $(wildcard $(SRCDIR)/*.sfd)
 SFDFILES := $(patsubst $(SRCDIR)/%, %, $(SRC))
 SFD  := $(patsubst $(SRCDIR)/%.sfd, $(TMPDIR)/%.sfd, $(SRC))
+NORMSFD := $(patsubst %, %.norm, $(SFD))
 TTF  := $(patsubst $(TMPDIR)/%.sfd, $(BUILDDIR)/%.ttf, $(SFD))
 
 STATICDOC := $(addprefix $(DOCDIR)/, LICENSE README.md)
