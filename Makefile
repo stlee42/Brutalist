@@ -1,4 +1,4 @@
-.PHONY: all check munge full ttf full-ttf status dist src-dist full-dist norm check-harder pre-patch clean
+.PHONY: all check munge status dist src-dist ttf-dist norm check-harder pre-patch clean
 
 # Release version
 VERSION = 3.001
@@ -26,7 +26,7 @@ ARCHIVEVER = $(VERSION)-$(SNAPSHOT)
 endif
 
 SRCARCHIVE  = brutalist-fonts-$(ARCHIVEVER)
-FULLARCHIVE = brutalist-fonts-ttf-$(ARCHIVEVER)
+ARCHIVE = brutalist-fonts-ttf-$(ARCHIVEVER)
 
 ARCHIVEEXT = .zip .tar.bz2
 SUMEXT     = .zip.md5 .tar.bz2.md5 .tar.bz2.sha512
@@ -43,18 +43,17 @@ LANGCOVER   = $(SCRIPTSDIR)/langcover.pl
 STATUS	    = $(SCRIPTSDIR)/status.pl
 PROBLEMS    = $(SCRIPTSDIR)/problems.pl
 NORMALIZE   = $(SCRIPTSDIR)/sfdnormalize.pl
-NARROW      = $(SCRIPTSDIR)/narrow.pe
 
 SRC      := $(wildcard $(SRCDIR)/*.sfd)
 SFDFILES := $(patsubst $(SRCDIR)/%, %, $(SRC))
-FULLSFD  := $(patsubst $(SRCDIR)/%.sfd, $(TMPDIR)/%.sfd, $(SRC))
-FULLTTF  := $(patsubst $(TMPDIR)/%.sfd, $(BUILDDIR)/%.ttf, $(FULLSFD))
+SFD  := $(patsubst $(SRCDIR)/%.sfd, $(TMPDIR)/%.sfd, $(SRC))
+TTF  := $(patsubst $(TMPDIR)/%.sfd, $(BUILDDIR)/%.ttf, $(SFD))
 
 STATICDOC := $(addprefix $(DOCDIR)/, LICENSE README.md)
 STATICSRCDOC := $(addprefix $(DOCDIR)/, BUILDING.md)
-GENDOCFULL = unicover.txt langcover.txt status.txt
+GENDOC = unicover.txt langcover.txt status.txt
 
-all : full
+all : $(TTF)
 
 $(TMPDIR)/%.sfd: $(SRCDIR)/%.sfd
 	@echo "[1] $< => $@"
@@ -71,10 +70,10 @@ $(BUILDDIR)/%.ttf: $(TMPDIR)/%.sfd
 	$(RM) $@~
 	touch -r $< $@
 
-$(BUILDDIR)/status.txt: $(FULLSFD)
+$(BUILDDIR)/status.txt: $(SFD)
 	@echo "[4] => $@"
 	install -d $(dir $@)
-	$(STATUS) $(VERSION) $(OLDSTATUS) $(FULLSFD) > $@
+	$(STATUS) $(VERSION) $(OLDSTATUS) $(SFD) > $@
 
 $(BUILDDIR)/unicover.txt: $(patsubst %, $(TMPDIR)/%.sfd, BrutalistMono-Regular)
 	@echo "[5] => $@"
@@ -99,7 +98,7 @@ $(BUILDDIR)/Makefile: Makefile
 	    -e "s+^SNAPSHOT\([[:space:]]*\)=\(.*\)+SNAPSHOT = $(SNAPSHOT)+g" < $< > $@
 	touch -r $< $@
 
-$(TMPDIR)/$(SRCARCHIVE): $(addprefix $(BUILDDIR)/, $(GENDOCFULL) Makefile) $(FULLSFD)
+$(TMPDIR)/$(SRCARCHIVE): $(addprefix $(BUILDDIR)/, $(GENDOC) Makefile) $(SFD)
 	@echo "[8] => $@"
 	install -d -m 0755 $@/$(SCRIPTSDIR)
 	install -d -m 0755 $@/$(SRCDIR)
@@ -108,16 +107,16 @@ $(TMPDIR)/$(SRCARCHIVE): $(addprefix $(BUILDDIR)/, $(GENDOCFULL) Makefile) $(FUL
 	install -p -m 0755 $(GENERATE) $(TTPOSTPROC) $(NORMALIZE) \
 	                   $(UNICOVER) $(LANGCOVER) $(STATUS) $(PROBLEMS) \
 	                   $@/$(SCRIPTSDIR)
-	install -p -m 0644 $(FULLSFD) $@/$(SRCDIR)
-	install -p -m 0644 $(addprefix $(BUILDDIR)/, $(GENDOCFULL)) \
+	install -p -m 0644 $(SFD) $@/$(SRCDIR)
+	install -p -m 0644 $(addprefix $(BUILDDIR)/, $(GENDOC)) \
 	                   $(STATICDOC) $(STATICSRCDOC) $@/$(DOCDIR)
 
-$(TMPDIR)/$(FULLARCHIVE): full
+$(TMPDIR)/$(ARCHIVE): $(TTF) $(STATUS)
 	@echo "[8] => $@"
 	install -d -m 0755 $@/$(TTFDIR)
 	install -d -m 0755 $@/$(DOCDIR)
-	install -p -m 0644 $(FULLTTF) $@/$(TTFDIR)
-	install -p -m 0644 $(addprefix $(BUILDDIR)/, $(GENDOCFULL)) \
+	install -p -m 0644 $(TTF) $@/$(TTFDIR)
+	install -p -m 0644 $(addprefix $(BUILDDIR)/, $(GENDOC)) \
 	                   $(STATICDOC) $@/$(DOCDIR)
 
 $(DISTDIR)/%.zip: $(TMPDIR)/%
@@ -155,19 +154,13 @@ munge: $(NORMSFD)
 	cp $(TMPDIR)/$$sfd.norm $(SRCDIR)/$$sfd ;\
 	done
 
-full : $(FULLTTF) $(addprefix $(BUILDDIR)/, $(GENDOCFULL))
+status : $(addprefix $(BUILDDIR)/, $(GENDOC))
 
-ttf : full-ttf
-
-full-ttf : $(FULLTTF)
-
-status : $(addprefix $(BUILDDIR)/, $(GENDOCFULL))
-
-dist : src-dist full-dist
+dist : src-dist ttf-dist
 
 src-dist :  $(addprefix $(DISTDIR)/$(SRCARCHIVE),  $(ARCHIVEEXT) $(SUMEXT))
 
-full-dist : $(addprefix $(DISTDIR)/$(FULLARCHIVE), $(ARCHIVEEXT) $(SUMEXT))
+ttf-dist : $(addprefix $(DISTDIR)/$(ARCHIVE), $(ARCHIVEEXT) $(SUMEXT))
 
 norm : $(NORMSFD)
 

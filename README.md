@@ -22,6 +22,16 @@ See [CHANGELOG.md](CHANGELOG.md).
 
 ## Building
 
+To generate the `.ttf` files, run
+
+```
+make
+```
+
+and find the `.ttf` files in `build` directory. You will need [fontforge](https://fontforge.org) and [ttfautohint](https://freetype.org/ttfautohint/) (alternatively, [ttfautohint-py](https://github.com/fonttools/ttfautohint-py)) installed.
+
+To generate the `.zip` and `.tar.bz2` files that are suitable for distribution, follow the following instructions.
+
 Create a `resources` directory
 
 ```
@@ -41,6 +51,6 @@ rmdir fontconfig-main-fc-lang
 cd ..
 ```
 
-Now run `make` to generate the `.ttf` files in `build` directory. Run `make dist` to generate the `.zip` and `.tar.bz2` files in `dist` directory that are suitable for distribution.
+Run `make dist` and the files will be in `dist` directory.
 
 See: [prerequisites](BUILDING.md).
