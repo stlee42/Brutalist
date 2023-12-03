@@ -14,7 +14,11 @@ Download TrueType fonts (`BrutalistMono.3.001.zip`) from the [releases](https://
 
 ## License
 
-Bitstream Vera License with Reserved Font Names "Bitstream" and "Vera". See [`LICENSE`](LICENSE).
+Bitstream Vera License with Reserved Font Names "Bitstream" and "Vera".
+
+Bitstream Vera License is the "non-copyleft" or "permissive" counterpart to [SIL Open Font License 1.1](https://choosealicense.com/licenses/ofl-1.1/) and shares same attributes as it on [this chart](https://choosealicense.com/appendix/) with the exception of "same license" column.
+
+See [`LICENSE`](LICENSE).
 
 ## Change Log
 
