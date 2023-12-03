@@ -6,7 +6,7 @@ Brutalist Mono is a fork of [DejaVu Sans Mono v2.37](https://github.com/dejavu-f
 
 ## Download
 
-Download TrueType fonts ([`brutalist-mono-ttf-3.002.zip`](https://github.com/stlee42/BrutalistMono/releases/download/v3.002/brutalist-mono-ttf-3.002.zip)).
+Download TrueType fonts ([brutalist-mono-ttf-3.002.zip](https://github.com/stlee42/BrutalistMono/releases/download/v3.002/brutalist-mono-ttf-3.002.zip)).
 
 ## Specimen
 
