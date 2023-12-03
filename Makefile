@@ -25,8 +25,8 @@ else
 ARCHIVEVER = $(VERSION)-$(SNAPSHOT)
 endif
 
-SRCARCHIVE  = brutalist-fonts-$(ARCHIVEVER)
-ARCHIVE = brutalist-fonts-ttf-$(ARCHIVEVER)
+SRCARCHIVE  = brutalist-mono-$(ARCHIVEVER)
+ARCHIVE = brutalist-mono-ttf-$(ARCHIVEVER)
 
 ARCHIVEEXT = .zip .tar.bz2
 SUMEXT     = .zip.md5 .tar.bz2.md5 .tar.bz2.sha512
