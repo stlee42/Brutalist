@@ -1,7 +1,7 @@
 .PHONY: all check munge status dist src-dist ttf-dist norm check-harder pre-patch clean
 
 # Release version
-VERSION = 3.001
+VERSION = 3.002
 # Snapshot version
 SNAPSHOT =
 # Initial source directory, assumed read-only
