@@ -36,13 +36,7 @@ and find the `.ttf` files in `build` directory. You will need [fontforge](https:
 
 To generate the `.zip` and `.tar.bz2` files that are suitable for distribution, follow the following instructions.
 
-Create a `resources` directory
-
-```
-mkdir resources
-```
-
-and in that directory, download some files into it.
+Download some files into the `resources` directory.
 
 ```
 cd resources
