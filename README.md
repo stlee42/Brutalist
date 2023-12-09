@@ -1,6 +1,6 @@
 # Brutalist Mono
 
-This has been forked from [Brutalist Mono](https://github.com/BRUTALISM/Brutalist).
+A font that looks like Menlo because it has a slashed zero and a longer hyphen.
 
 Brutalist Mono is a fork of [DejaVu Sans Mono v2.37](https://github.com/dejavu-fonts/dejavu-fonts) which itself is a fork of [Bitstream Vera Sans Mono v1.10](https://web.archive.org/web/20210314185159/https://www.gnome.org/fonts/).
 
