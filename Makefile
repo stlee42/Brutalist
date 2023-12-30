@@ -28,8 +28,8 @@ endif
 SRCARCHIVE  = brutalist-mono-$(ARCHIVEVER)
 ARCHIVE = brutalist-mono-ttf-$(ARCHIVEVER)
 
-ARCHIVEEXT = .zip .tar.bz2
-SUMEXT     = .zip.md5 .tar.bz2.md5 .tar.bz2.sha512
+ARCHIVEEXT = .zip .tar.xz
+SUMEXT     = .zip.md5 .tar.xz.md5 .tar.xz.sha512
 
 OLDSTATUS   = $(DOCDIR)/status.txt
 BLOCKS      = $(RESOURCEDIR)/Blocks.txt
@@ -125,10 +125,10 @@ $(DISTDIR)/%.zip: $(TMPDIR)/%
 	install -d $(dir $@)
 	(cd $(TMPDIR); zip -rv $(abspath $@) $(notdir $<))
 
-$(DISTDIR)/%.tar.bz2: $(TMPDIR)/%
+$(DISTDIR)/%.tar.xz: $(TMPDIR)/%
 	@echo "[9] => $@"
 	install -d $(dir $@)
-	(cd $(TMPDIR); tar cjvf $(abspath $@) $(notdir $<))
+	(cd $(TMPDIR); tar cJvf $(abspath $@) $(notdir $<))
 
 %.md5: %
 	@echo "[10] => $@"

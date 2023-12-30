@@ -34,7 +34,7 @@ make
 
 and find the `.ttf` files in `build` directory. You will need [fontforge](https://fontforge.org) and [ttfautohint](https://freetype.org/ttfautohint/) (alternatively, [ttfautohint-py](https://github.com/fonttools/ttfautohint-py)) installed.
 
-To generate the `.zip` and `.tar.bz2` files that are suitable for distribution, follow the following instructions.
+To generate the `.zip` and `.tar.xz` files that are suitable for distribution, follow the following instructions.
 
 Download some files into the `resources` directory.
 
